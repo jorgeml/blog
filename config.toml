@@ -1,4 +1,4 @@
-baseURL = "http://jorgeml.me/"
+baseURL = "https://jorgeml.me/"
 languageCode = "en-gb"
 title = "it's my life"
 theme = "hyde"
