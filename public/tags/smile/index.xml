@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>smile on it&#39;s my life</title>
+    <link>/tags/smile/</link>
+    <description>Recent content in smile on it&#39;s my life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 21 Feb 2008 13:03:12 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/smile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Say it with a smile</title>
+      <link>/2008/02/21/say-it-with-a-smile/</link>
+      <pubDate>Thu, 21 Feb 2008 13:03:12 +0000</pubDate>
+      
+      <guid>/2008/02/21/say-it-with-a-smile/</guid>
+      <description>I have see all kind of presentations around here. I might say that presentations in big companies are mostly really good. Today we went to NTT DoCoMo and the movies there where amazing. On the other hand, the first presentation, in another company, was extremely boring, with a guy telling us how wonderful his campus is, how many companies are there, in which buildings, and the specific details of the 20 divisions of his company.</description>
+    </item>
+    
+  </channel>
+</rss>

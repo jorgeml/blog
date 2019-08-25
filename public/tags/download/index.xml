@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>download on it&#39;s my life</title>
+    <link>/tags/download/</link>
+    <description>Recent content in download on it&#39;s my life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 17 Jun 2008 19:24:39 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/download/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Firefox 3</title>
+      <link>/2008/06/17/firefox-3/</link>
+      <pubDate>Tue, 17 Jun 2008 19:24:39 +0000</pubDate>
+      
+      <guid>/2008/06/17/firefox-3/</guid>
+      <description>Ya está disponible la nueva versión del navegador Firefox. La llevo utilizando algún tiempo y es una delicia, las páginas cargan como persianas y la interfaz está más integrada con el sistema operativo, entre otras mejoras.
+Los desarrolladores de Firefox, la fundación Mozilla, quiere batir el record de descargas de un programa en 24 horas, pero los servidores están ahora mismo caídos. El plazo recomenzará en breve. Para bajarse Firefox este enlace parece funcionar bien.</description>
+    </item>
+    
+  </channel>
+</rss>

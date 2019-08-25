@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>yoigo on it&#39;s my life</title>
+    <link>/tags/yoigo/</link>
+    <description>Recent content in yoigo on it&#39;s my life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 23 Jun 2008 07:21:43 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/yoigo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Incomunicado con Yoigo</title>
+      <link>/2008/06/23/incomunicado-con-yoigo/</link>
+      <pubDate>Mon, 23 Jun 2008 07:21:43 +0000</pubDate>
+      
+      <guid>/2008/06/23/incomunicado-con-yoigo/</guid>
+      <description>Desde hace unas semanas no tengo roaming en mi móvil español. Llamé a atención al cliente de Yoigo, donde además de tutearme me aseguraron que es normal que no tuviera roaming porque en Holanda no tienen acuerdo. El tema es que si hay acuerdo, porque mi teléfono si funcionaba, y es más, en la tabla de países publicada en su web figura, efectivamente, Países Bajos con KPN.
+Todavía no me han solucionado el problema, ni me han llamado, ni me han mandado un correo ni nada.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>openbank on it&#39;s my life</title>
+    <link>/tags/openbank/</link>
+    <description>Recent content in openbank on it&#39;s my life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 19 Sep 2008 13:27:40 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/openbank/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vuelve OpenBank</title>
+      <link>/2008/09/19/vuelve-openbank/</link>
+      <pubDate>Fri, 19 Sep 2008 13:27:40 +0000</pubDate>
+      
+      <guid>/2008/09/19/vuelve-openbank/</guid>
+      <description>Esto empieza a parecer una película de zombies. Antecedentes: hace meses que no soy cliente y hoy deben estar nerviosos porque la SEC, el equivalente a la CNMV en los Estados Juntitos de América hay prohido un tipo de operación especulativa, los margin calls sin garantías. El caso es que alguien debía estar nervioso en Openbank y me ha llegado este mensaje:
+AVISO OPENBANK. MARGIN CALL, EN CASO DE NO DISPONER DE GARANTIAS NECESARIAS SUS POSICIONES PODRAN SER CERRADAS.</description>
+    </item>
+    
+    <item>
+      <title>Si algo funciona, no lo toques</title>
+      <link>/2008/04/22/si-algo-funciona-no-lo-toques/</link>
+      <pubDate>Tue, 22 Apr 2008 17:41:28 +0000</pubDate>
+      
+      <guid>/2008/04/22/si-algo-funciona-no-lo-toques/</guid>
+      <description>Ya sé que esto va a parecer el blog de la OCU pero no puedo evitar comentar la chapuza que han hecho en Openbank.
+Openbank era un banco estupendo. Tenía todo tipo de servicios, la web era sencilla y funcionaba bastante bien. Lo más raro que tenían era una comisión de un euro por cada operación en ventanilla a partir de la segunda, como si el empleado del banco se desgastara.</description>
+    </item>
+    
+  </channel>
+</rss>

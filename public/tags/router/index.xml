@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>router on it&#39;s my life</title>
+    <link>/tags/router/</link>
+    <description>Recent content in router on it&#39;s my life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 21 Nov 2010 11:54:08 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/router/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jugando con el router</title>
+      <link>/2010/11/21/jugando-con-el-router/</link>
+      <pubDate>Sun, 21 Nov 2010 11:54:08 +0000</pubDate>
+      
+      <guid>/2010/11/21/jugando-con-el-router/</guid>
+      <description>Hace unas semanas me decidí a cambiar el router de casa, entre otras cosas porque la tele recomienda utilizar WiFi tipo N para el streaming de video en alta definición.
+En lugar de comprar el último modelo con todas las prestaciones de alguna marca conocida (Linksys, Netgear, etc.) me decidí por el económico TP-Link TL-WR1043ND por menos de la mitad de lo que cuesta un router de los caros.
+Aunque el hardware es relativamente decente, el software tiene algunas lagunas, por ejemplo la calidad de servicio (QoS) no es nada intuitiva de configurar.</description>
+    </item>
+    
+  </channel>
+</rss>

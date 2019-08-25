@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rock on it&#39;s my life</title>
+    <link>/tags/rock/</link>
+    <description>Recent content in rock on it&#39;s my life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 14 Mar 2009 17:56:38 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/rock/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arrow: RIP</title>
+      <link>/2009/03/14/arrow-rip/</link>
+      <pubDate>Sat, 14 Mar 2009 17:56:38 +0000</pubDate>
+      
+      <guid>/2009/03/14/arrow-rip/</guid>
+      <description>Cuando voy de casa al trabajo y de vuelta solía escuchar dos emisoras de radio principalmente: Arrow Jazz FM y Arrow Classic Rock. Hace un par de semanas sacaron unos anuncios pidiendo donaciones para poder mantenerse en el aire a lo Mobuzz. Como Mobuzz, no lo han conseguido. Como consecuencia las dos emisoras ahora solo se pueden escuchar por cable y por Internet. DEP.</description>
+    </item>
+    
+  </channel>
+</rss>

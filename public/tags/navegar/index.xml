@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>navegar on it&#39;s my life</title>
+    <link>/tags/navegar/</link>
+    <description>Recent content in navegar on it&#39;s my life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 22 May 2006 17:57:57 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/navegar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Barquito pequeñito</title>
+      <link>/2006/05/22/barquito-pequenito/</link>
+      <pubDate>Mon, 22 May 2006 17:57:57 +0000</pubDate>
+      
+      <guid>/2006/05/22/barquito-pequenito/</guid>
+      <description>Admiro esta gente. Se coge un barco y se dedica a dar la vuelta al mundo. Esos barcos se mueven mucho, y a veces el tiempo no acompaña, el barco se rompe y hay que salir por patas, si es posible. O a veces un golpe de mar se lleva al que se sienta al lado y a saber si vuelve.
+Igualito que los golfos de los futbolistas, que entrenan dos horas, incluyendo hora y media de rueda de prensa, donde se quejan del estado del terreno de juego.</description>
+    </item>
+    
+  </channel>
+</rss>

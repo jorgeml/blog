@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2008 on it&#39;s my life</title>
+    <link>/tags/2008/</link>
+    <description>Recent content in 2008 on it&#39;s my life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 29 Jan 2008 22:01:24 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/2008/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elecciones 2008: mi programa</title>
+      <link>/2008/01/30/elecciones-2008-mi-programa/</link>
+      <pubDate>Tue, 29 Jan 2008 22:01:24 +0000</pubDate>
+      
+      <guid>/2008/01/30/elecciones-2008-mi-programa/</guid>
+      <description>Están aquí al lado las elecciones, y antes de ponerme a ver los distintos programas de los partidos me he puesto a hacer una lista de cosas que me gustaría hacer si me presentara:
+ * Reforma de la universidad: criterios de selección del profesorado, mayor apoyo a las becas Erasmus, etc. * Supresión de las becas universitarias y sustitución por créditos a interés cero a devolver cuando el sueldo supere un umbral, condicionado a acabar la carrera en menos de X años.</description>
+    </item>
+    
+    <item>
+      <title>Feliz 2008</title>
+      <link>/2008/01/03/feliz-2008/</link>
+      <pubDate>Thu, 03 Jan 2008 13:40:14 +0000</pubDate>
+      
+      <guid>/2008/01/03/feliz-2008/</guid>
+      <description>Ya se que me he retrasado un poco, pero bueno. Feliz 2008 a todos mis lectores.
+He empezado el año en cama, con las amígdalas del tamaño del balón oficial de la Eurocopa. Ya estoy mejor pero hasta la semana que viene voy a estar más dopado que un ciclista.
+Viene un año chungo, la verdad. Va a haber una crisis económica del copón, vayan mirando el Euríbor, el IPC, el paro y el precio del petróleo y vayan preparándose porque va a caer una que va a crujir el misterio.</description>
+    </item>
+    
+  </channel>
+</rss>

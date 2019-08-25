@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>earthquake on it&#39;s my life</title>
+    <link>/tags/earthquake/</link>
+    <description>Recent content in earthquake on it&#39;s my life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 10 Mar 2008 08:02:53 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/earthquake/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JapShake</title>
+      <link>/2008/03/10/japshake/</link>
+      <pubDate>Mon, 10 Mar 2008 08:02:53 +0000</pubDate>
+      
+      <guid>/2008/03/10/japshake/</guid>
+      <description>I have tried sushi, sake, karaoke, teriyaki and all the well-known Japanese stuff. I was still missing something, but I couldn’t do anything to arrange it. When I thought that I was coming back to Nederland, it came: my first earthquake.
+Indeed it is not the first one. Ten years ago I was in the States and there was an earthquake during the night. I couldn’t notice. Indeed I’m a deep sleeper so the room could be on fire and I wouldn’t notice.</description>
+    </item>
+    
+  </channel>
+</rss>

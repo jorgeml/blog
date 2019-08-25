@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gtd on it&#39;s my life</title>
+    <link>/tags/gtd/</link>
+    <description>Recent content in gtd on it&#39;s my life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 23 Sep 2009 20:00:30 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/gtd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Things Done</title>
+      <link>/2009/09/23/getting-things-done/</link>
+      <pubDate>Wed, 23 Sep 2009 20:00:30 +0000</pubDate>
+      
+      <guid>/2009/09/23/getting-things-done/</guid>
+      <description>Getting Things Done es un conocido libro de David Allen. Allen lleva 20 años trabajando como consultor ayudando a ejecutivos a mejorar su productividad. Getting Things Done (GTD) es una metodología que el autor propone para conseguir una concentración en el desempeño del trabajo similar a la de los deportistas de élite.
+La premisa de la que se parte GTD es bien sencilla: la mente humana no es capaz de recordar todas las tareas pendientes y eso causa estrés, sensación de desconfianza y falta de concentración en lo que se está haciendo.</description>
+    </item>
+    
+  </channel>
+</rss>

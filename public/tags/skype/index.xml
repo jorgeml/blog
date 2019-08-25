@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>skype on it&#39;s my life</title>
+    <link>/tags/skype/</link>
+    <description>Recent content in skype on it&#39;s my life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 10 Jan 2009 16:31:58 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/skype/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Skype Mobile: no es oro todo lo que reluce</title>
+      <link>/2009/01/10/skype-mobile-no-es-oro-todo-lo-que-reluce/</link>
+      <pubDate>Sat, 10 Jan 2009 16:31:58 +0000</pubDate>
+      
+      <guid>/2009/01/10/skype-mobile-no-es-oro-todo-lo-que-reluce/</guid>
+      <description>Leo en varios medios que Skype ha lanzado su versión móvil. Esto en principio parece una muy buena noticia, pero en realidad no es para tanto. Ignorando el hecho de que el protocolo Skype es secreto y propietario, al contrario de la gran mayoría de los protocolos de Internet, la versión móvil de Skype no es tan revolucionaria como la versión PC. Veamos por qué.
+La gran innovación de Skype fue conseguir una muy buena calidad de llamadas gratuitas entre los usuarios del servicio.</description>
+    </item>
+    
+  </channel>
+</rss>
