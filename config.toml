@@ -35,5 +35,5 @@ enableRobotsTXT = true
   #body_classes = "roboto bg-near-white"
   featured_image = "/images/hero-image.jpg"
   #recent_posts_number = 2
-  themeColor = "theme-base-0a"
+  themeColor = "theme-base-0d"
 
