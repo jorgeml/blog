@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-01-08 09:07:37+00:00
 draft: false
 title: Lo has vuelto a hacer, Bill
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/01/08/lo-has-vuelto-a-hacer-bill/
 tags:
 - internet

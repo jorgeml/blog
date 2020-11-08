@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-10-01 18:02:10+00:00
 draft: false
 title: No tomen ese avión
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/10/01/no-tomen-ese-avion/
 tags:
 - avión

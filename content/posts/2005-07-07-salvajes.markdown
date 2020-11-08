@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-07-07 22:32:50+00:00
 draft: false
 title: Salvajes
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/07/07/salvajes/
 tags:
 - 11m

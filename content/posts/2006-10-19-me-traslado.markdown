@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-10-19 09:23:12+00:00
 draft: false
 title: Me traslado
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/10/19/me-traslado/
 tags:
 - erasmus

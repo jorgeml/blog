@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-12-11 10:10:22+00:00
 draft: false
 title: Día del encuentro
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/12/11/dia-del-encuentro/
 tags:
 - todo a cien

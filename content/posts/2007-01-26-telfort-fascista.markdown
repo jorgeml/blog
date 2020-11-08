@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-01-26 14:45:51+00:00
 draft: false
 title: Telfort fascista
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/01/26/telfort-fascista/
 tags:
 - erasmus

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-01-13 12:50:35+00:00
 draft: false
 title: Me voy de congreso
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/01/13/me-voy-de-congreso/
 tags:
 - erasmus

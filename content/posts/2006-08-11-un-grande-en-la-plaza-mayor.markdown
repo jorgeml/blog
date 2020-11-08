@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-08-11 07:59:01+00:00
 draft: false
 title: Un grande, en la plaza Mayor
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/08/11/un-grande-en-la-plaza-mayor/
 tags:
 - música

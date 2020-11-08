@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-02-25 13:17:11+00:00
 draft: false
 title: Feromonas
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/02/25/feromonas/
 tags:
 - todo a cien

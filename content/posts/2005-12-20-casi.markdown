@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-12-20 19:12:01+00:00
 draft: false
 title: Casi...
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/12/20/casi/
 tags:
 - ordenadores

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-01-30 23:20:49+00:00
 draft: false
 title: Jiménez no se vende
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/01/31/jimenez-no-se-vende/
 tags:
 - baloncesto

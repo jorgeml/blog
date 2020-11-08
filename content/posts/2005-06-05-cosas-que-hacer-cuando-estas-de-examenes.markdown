@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-06-05 09:23:25+00:00
 draft: false
 title: Cosas que hacer cuando estás de exámenes
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/06/05/cosas-que-hacer-cuando-estas-de-examenes/
 tags:
 - todo a cien

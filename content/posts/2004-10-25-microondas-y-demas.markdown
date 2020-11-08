@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-10-25 19:58:02+00:00
 draft: false
 title: Microondas y demás
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/10/25/microondas-y-demas/
 tags:
 - universidad

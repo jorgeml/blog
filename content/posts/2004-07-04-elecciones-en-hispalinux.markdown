@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-07-04 22:20:17+00:00
 draft: false
 title: Elecciones en Hispalinux
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/07/04/elecciones-en-hispalinux/
 tags:
 - ordenadores

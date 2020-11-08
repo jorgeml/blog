@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-07-25 18:14:11+00:00
 draft: false
 title: Primero dispara y luego pregunta
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/07/25/primero-dispara-y-luego-pregunta/
 tags:
 - noticias

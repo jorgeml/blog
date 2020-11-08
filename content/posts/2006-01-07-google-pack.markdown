@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-01-07 12:47:15+00:00
 draft: false
 title: Google Pack
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/01/07/google-pack/
 tags:
 - internet

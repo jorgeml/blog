@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-03-14 15:06:22+00:00
 draft: false
 title: Internet mató a la radio
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/03/14/internet-mato-a-la-radio/
 tags:
 - internet

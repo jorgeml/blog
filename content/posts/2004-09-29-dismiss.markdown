@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-09-29 19:36:55+00:00
 draft: false
 title: Dismiss
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/09/29/dismiss/
 tags:
 - mtv

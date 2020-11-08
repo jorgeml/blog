@@ -3,7 +3,10 @@ author: jorgeml
 date: 2010-02-11 20:37:59+00:00
 draft: false
 title: Las ruedas de invierno
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2010/02/11/las-ruedas-de-invierno/
 tags:
 - automóvil

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-05-11 22:39:23+00:00
 draft: false
 title: Baloncesto como en los viejos tiempos
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/05/11/baloncesto-como-en-los-viejos-tiempos/
 tags:
 - deporte

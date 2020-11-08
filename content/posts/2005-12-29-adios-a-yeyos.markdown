@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-12-29 16:40:48+00:00
 draft: false
 title: Adios a yeyo's
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/12/29/adios-a-yeyos/
 tags:
 - trabajo

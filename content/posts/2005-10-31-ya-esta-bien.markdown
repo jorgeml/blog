@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-10-31 18:06:43+00:00
 draft: false
 title: Ya está bien
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/10/31/ya-esta-bien/
 tags:
 - todo a cien

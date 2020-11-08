@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-05-14 14:30:51+00:00
 draft: false
 title: Se fue a por tabaco y no vuelve en 45 años
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/05/14/se-fue-a-por-tabaco-y-no-vuelve-en-45-anos/
 tags:
 - noticias

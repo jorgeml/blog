@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-04-06 20:56:12+00:00
 draft: false
 title: El PIN y la radio
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/04/06/el-pin-y-la-radio/
 tags:
 - erasmus

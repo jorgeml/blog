@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-04-26 20:56:03+00:00
 draft: false
 title: Mariano, el sucesor
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/04/26/mariano-el-sucesor/
 tags:
 - erasmus

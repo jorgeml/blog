@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-09-29 09:40:11+00:00
 draft: false
 title: Otro estudio de mercado
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/09/29/otro-estudio-de-mercado/
 tags:
 - trabajo

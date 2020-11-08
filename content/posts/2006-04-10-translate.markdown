@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-04-10 20:19:59+00:00
 draft: false
 title: Translate
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/04/10/translate/
 tags:
 - música

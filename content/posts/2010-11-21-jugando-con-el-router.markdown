@@ -3,7 +3,10 @@ author: jorgeml
 date: 2010-11-21 11:54:08+00:00
 draft: false
 title: Jugando con el router
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2010/11/21/jugando-con-el-router/
 tags:
 - internet

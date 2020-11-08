@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-09-27 16:07:04+00:00
 draft: false
 title: Shangri-la, de Mark Knopfler
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/09/27/shangri-la-de-mark-knopfler/
 tags:
 - música

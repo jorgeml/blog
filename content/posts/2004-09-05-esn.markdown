@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-09-05 07:17:28+00:00
 draft: false
 title: ESN
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/09/05/esn/
 tags:
 - erasmus

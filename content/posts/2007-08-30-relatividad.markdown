@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-08-30 17:31:02+00:00
 draft: false
 title: Relatividad
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/08/30/relatividad/
 tags:
 - noticias

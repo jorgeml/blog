@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-11-06 21:30:46+00:00
 draft: false
 title: Ya es Navidad en yeyo's
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/11/06/ya-es-navidad-en-yeyos/
 tags:
 - todo a cien

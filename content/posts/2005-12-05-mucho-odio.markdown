@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-12-05 20:15:04+00:00
 draft: false
 title: Mucho odio
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/12/05/mucho-odio/
 tags:
 - todo a cien

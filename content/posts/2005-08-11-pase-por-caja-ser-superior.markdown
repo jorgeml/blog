@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-08-11 13:43:43+00:00
 draft: false
 title: Pase por caja, ser superior
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/08/11/pase-por-caja-ser-superior/
 tags:
 - deporte

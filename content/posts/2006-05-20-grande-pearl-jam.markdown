@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-05-20 18:40:32+00:00
 draft: false
 title: Grande Pearl Jam
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/05/20/grande-pearl-jam/
 tags:
 - internet

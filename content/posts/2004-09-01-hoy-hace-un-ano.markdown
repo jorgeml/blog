@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-09-01 08:05:23+00:00
 draft: false
 title: Hoy, hace un año.
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/09/01/hoy-hace-un-ano/
 tags:
 - erasmus

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2009-10-17 07:02:57+00:00
 draft: false
 title: Probando Google Wave
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2009/10/17/probando-google-wave/
 tags:
 - internet

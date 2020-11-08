@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-06-20 19:13:28+00:00
 draft: false
 title: Mundial
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/06/20/mundial/
 tags:
 - '2006'

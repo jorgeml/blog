@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-05-02 21:44:00+00:00
 draft: false
 title: Rush April
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/05/02/rush-april/
 tags:
 - april

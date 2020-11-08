@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-08-23 20:00:55+00:00
 draft: false
 title: Yo, robot
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/08/23/yo-robot/
 tags:
 - cine

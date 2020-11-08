@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-10-12 21:26:17+00:00
 draft: false
 title: Vote for change
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/10/12/vote-for-change/
 tags:
 - noticias

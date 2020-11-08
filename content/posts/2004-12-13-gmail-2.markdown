@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-12-13 20:59:02+00:00
 draft: false
 title: Gmail
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/12/13/gmail-2/
 tags:
 - www

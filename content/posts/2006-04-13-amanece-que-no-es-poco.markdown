@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-04-13 18:46:29+00:00
 draft: false
 title: Amanece que no es poco
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/04/13/amanece-que-no-es-poco/
 tags:
 - cine

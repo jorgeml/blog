@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-02-16 06:39:22+00:00
 draft: false
 title: The white things
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/02/16/the-white-things/
 tags:
 - coche

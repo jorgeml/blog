@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-05-15 15:19:34+00:00
 draft: false
 title: 'El triplete: dos huevos y un filete'
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/05/15/el-triplete-dos-huevos-y-un-filete/
 tags:
 - deporte

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-10-22 08:31:38+00:00
 draft: false
 title: Y se lo lleva uno que pasaba por ahí
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/10/22/y-se-lo-lleva-uno-que-pasaba-por-ahi/
 tags:
 - ferrari

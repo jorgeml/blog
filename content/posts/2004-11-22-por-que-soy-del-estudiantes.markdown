@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-11-22 17:38:00+00:00
 draft: false
 title: ¿Por qué soy del Estudiantes?
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/11/22/por-que-soy-del-estudiantes/
 tags:
 - baloncesto

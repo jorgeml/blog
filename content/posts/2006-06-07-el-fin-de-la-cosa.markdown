@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-06-07 14:48:23+00:00
 draft: false
 title: El fin de la cosa
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/06/07/el-fin-de-la-cosa/
 tags:
 - internet

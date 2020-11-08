@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-12-05 22:20:13+00:00
 draft: false
 title: Los increibles
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/12/05/los-increibles/
 tags:
 - cine

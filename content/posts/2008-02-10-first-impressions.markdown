@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-02-10 15:32:45+00:00
 draft: false
 title: First impressions
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/02/10/first-impressions/
 tags:
 - japan

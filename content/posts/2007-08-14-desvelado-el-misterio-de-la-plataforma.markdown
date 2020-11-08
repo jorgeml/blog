@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-08-14 18:53:38+00:00
 draft: false
 title: Desvelado el misterio de la plataforma
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/08/14/desvelado-el-misterio-de-la-plataforma/
 tags:
 - erasmus

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-01-29 15:24:40+00:00
 draft: false
 title: Florentino es un ser superior
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/01/29/florentino-es-un-ser-superior/
 tags:
 - deporte

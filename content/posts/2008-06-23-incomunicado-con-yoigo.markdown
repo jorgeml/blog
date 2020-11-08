@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-06-23 07:21:43+00:00
 draft: false
 title: Incomunicado con Yoigo
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/06/23/incomunicado-con-yoigo/
 tags:
 - problemas

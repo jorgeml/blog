@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-04-02 21:02:11+00:00
 draft: false
 title: De vuelta
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/04/02/de-vuelta/
 tags:
 - esn

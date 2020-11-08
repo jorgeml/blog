@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-06-14 21:45:01+00:00
 draft: false
 title: Venus, examenes, basket
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/06/14/venus-examenes-basket/
 tags:
 - noticias

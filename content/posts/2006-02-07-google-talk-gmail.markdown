@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-02-07 14:57:27+00:00
 draft: false
 title: Google Talk + GMail
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/02/07/google-talk-gmail/
 tags:
 - www

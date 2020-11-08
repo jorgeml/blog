@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-06-15 11:08:27+00:00
 draft: false
 title: ¿Por qué la música suena mal?
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/06/15/por-que-la-musica-suena-mal/
 tags:
 - música

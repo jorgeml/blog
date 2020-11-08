@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-02-08 21:53:10+00:00
 draft: false
 title: El triplete
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/02/08/el-triplete/
 tags:
 - deporte

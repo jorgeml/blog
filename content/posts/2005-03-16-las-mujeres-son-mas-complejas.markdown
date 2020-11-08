@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-03-16 20:22:45+00:00
 draft: false
 title: Las mujeres son más complejas
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/03/16/las-mujeres-son-mas-complejas/
 tags:
 - noticias

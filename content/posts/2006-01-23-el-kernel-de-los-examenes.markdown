@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-01-23 18:15:55+00:00
 draft: false
 title: El kernel de los exámenes
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/01/23/el-kernel-de-los-examenes/
 tags:
 - ordenadores

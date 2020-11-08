@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-12-05 22:20:36+00:00
 draft: false
 title: 27.03.04 de Sexy Sadie
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/12/05/27-03-04-de-sexy-sadie/
 tags:
 - música

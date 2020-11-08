@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-06-10 20:06:02+00:00
 draft: false
 title: 'Recomendado: Eskobar'
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/06/10/recomendado-eskobar/
 tags:
 - música

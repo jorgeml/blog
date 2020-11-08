@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-07-27 10:03:48+00:00
 draft: false
 title: Maldita antipiratería
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/07/27/maldita-antipirateria/
 tags:
 - cine

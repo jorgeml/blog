@@ -3,7 +3,10 @@ author: jorgeml
 date: 2009-12-02 20:03:51+00:00
 draft: false
 title: 'Manifiesto: En defensa de los derechos fundamentales en Internet'
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2009/12/02/manifiesto-en-defensa-de-los-derechos-fundamentales-en-internet/
 tags:
 - derechos

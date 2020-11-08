@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-01-02 23:32:16+00:00
 draft: false
 title: Empezando fuerte
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/01/03/empezando-fuerte/
 tags:
 - todo a cien

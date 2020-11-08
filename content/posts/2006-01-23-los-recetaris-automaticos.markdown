@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-01-23 18:05:57+00:00
 draft: false
 title: Los recetaris automáticos
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/01/23/los-recetaris-automaticos/
 tags:
 - todo a cien

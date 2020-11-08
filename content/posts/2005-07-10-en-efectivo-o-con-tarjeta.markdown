@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-07-10 23:56:25+00:00
 draft: false
 title: ¿En efectivo o con tarjeta?
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/07/11/en-efectivo-o-con-tarjeta/
 tags:
 - trabajo

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-05-17 18:26:11+00:00
 draft: false
 title: Una de basket
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/05/17/una-de-basket/
 tags:
 - baloncesto

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-06-22 11:25:38+00:00
 draft: false
 title: Batman begins
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/06/22/batman-begins/
 tags:
 - cine

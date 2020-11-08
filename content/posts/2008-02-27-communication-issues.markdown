@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-02-27 14:35:01+00:00
 draft: false
 title: Communication issues
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/02/27/communication-issues/
 tags:
 - english

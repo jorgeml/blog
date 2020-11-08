@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-05-23 19:57:48+00:00
 draft: false
 title: Jorge es unidireccional
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/05/23/jorge-es-unidireccional/
 tags:
 - todo a cien

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-08-18 18:43:16+00:00
 draft: false
 title: Angel
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/08/18/angel/
 tags:
 - música

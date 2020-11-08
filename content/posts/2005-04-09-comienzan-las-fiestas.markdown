@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-04-09 15:28:18+00:00
 draft: false
 title: Comienzan las fiestas
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/04/09/comienzan-las-fiestas/
 tags:
 - todo a cien

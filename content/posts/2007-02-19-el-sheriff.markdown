@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-02-19 23:47:55+00:00
 draft: false
 title: El sheriff
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/02/20/el-sheriff/
 tags:
 - baloncesto

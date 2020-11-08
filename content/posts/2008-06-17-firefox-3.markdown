@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-06-17 19:24:39+00:00
 draft: false
 title: Firefox 3
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/06/17/firefox-3/
 tags:
 - download

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-12-13 14:44:27+00:00
 draft: false
 title: Países europeos en los que he estado
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/12/13/paises-europeos-en-los-que-he-estado/
 tags:
 - viajes

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-04-03 11:10:31+00:00
 draft: false
 title: El conciertazo
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/04/03/el-conciertazo/
 tags:
 - música

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-08-24 20:37:32+00:00
 draft: false
 title: Cuartos
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/08/24/cuartos/
 tags:
 - noticias

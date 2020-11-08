@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-09-24 09:12:18+00:00
 draft: false
 title: Farándula
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/09/24/farandula/
 tags:
 - humor

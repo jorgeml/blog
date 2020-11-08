@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-02-12 14:50:31+00:00
 draft: false
 title: Returning the food
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/02/12/returning-the-food/
 tags:
 - food

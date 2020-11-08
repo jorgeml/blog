@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-01-06 19:20:30+00:00
 draft: false
 title: El nuevo presi de Estudiantes
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/01/06/el-nuevo-presi-de-estudiantes/
 tags:
 - baloncesto

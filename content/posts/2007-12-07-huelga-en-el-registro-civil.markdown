@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-12-07 22:03:39+00:00
 draft: false
 title: Huelga en el Registro Civil
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/12/08/huelga-en-el-registro-civil/
 tags:
 - huelga

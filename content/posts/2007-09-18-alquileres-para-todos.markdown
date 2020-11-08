@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-09-18 20:37:24+00:00
 draft: false
 title: Alquileres para todos
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/09/18/alquileres-para-todos/
 tags:
 - noticias

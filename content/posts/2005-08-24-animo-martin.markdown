@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-08-24 13:24:00+00:00
 draft: false
 title: Ánimo Martín
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/08/24/animo-martin/
 tags:
 - deporte

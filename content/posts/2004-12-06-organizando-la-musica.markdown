@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-12-06 23:15:10+00:00
 draft: false
 title: Organizando la música
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/12/07/organizando-la-musica/
 tags:
 - internet

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-12-07 00:13:37+00:00
 draft: false
 title: El cochecito y las mujeres
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/12/07/el-cochecito-y-las-mujeres/
 tags:
 - todo a cien

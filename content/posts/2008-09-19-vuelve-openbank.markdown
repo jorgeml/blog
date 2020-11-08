@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-09-19 13:27:40+00:00
 draft: false
 title: Vuelve OpenBank
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/09/19/vuelve-openbank/
 tags:
 - atención al cliente

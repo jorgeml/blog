@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-07-23 16:28:43+00:00
 draft: false
 title: La portada
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/07/23/la-portada/
 tags:
 - noticias

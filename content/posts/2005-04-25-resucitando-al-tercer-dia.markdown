@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-04-25 15:21:21+00:00
 draft: false
 title: Resucitando al tercer día
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/04/25/resucitando-al-tercer-dia/
 tags:
 - viajes

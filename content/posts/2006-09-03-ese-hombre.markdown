@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-09-03 14:29:19+00:00
 draft: false
 title: Ese hombre
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/09/03/ese-hombre/
 tags:
 - baloncesto

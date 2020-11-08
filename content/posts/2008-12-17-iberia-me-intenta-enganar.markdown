@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-12-17 19:00:55+00:00
 draft: false
 title: Iberia me intenta engañar
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/12/17/iberia-me-intenta-enganar/
 tags:
 - cancelación

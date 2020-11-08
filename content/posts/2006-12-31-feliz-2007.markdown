@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-12-31 23:43:38+00:00
 draft: false
 title: Feliz 2007
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/01/01/feliz-2007/
 tags:
 - todo a cien

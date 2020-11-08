@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-01-26 22:43:08+00:00
 draft: false
 title: Crispación
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/01/26/crispacion/
 tags:
 - todo a cien

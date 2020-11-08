@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-01-22 18:19:35+00:00
 draft: false
 title: Los recetaris
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/01/22/los-recetaris/
 tags:
 - todo a cien

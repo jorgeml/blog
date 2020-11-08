@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-06-05 22:15:14+00:00
 draft: false
 title: Y encima cuartos
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/06/05/y-encima-cuartos/
 tags:
 - noticias

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-06-04 09:38:49+00:00
 draft: false
 title: Con la burocracia hemos topado
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/06/04/con-la-burocracia-hemos-topado/
 tags:
 - erasmus

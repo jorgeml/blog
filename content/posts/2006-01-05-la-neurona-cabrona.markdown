@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-01-05 00:21:12+00:00
 draft: false
 title: La neurona cabrona
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/01/05/la-neurona-cabrona/
 tags:
 - todo a cien

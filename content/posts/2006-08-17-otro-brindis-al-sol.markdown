@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-08-17 08:40:38+00:00
 draft: false
 title: Otro brindis al sol
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/08/17/otro-brindis-al-sol/
 tags:
 - noticias

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2009-09-23 20:00:30+00:00
 draft: false
 title: Getting Things Done
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2009/09/23/getting-things-done/
 tags:
 - gtd

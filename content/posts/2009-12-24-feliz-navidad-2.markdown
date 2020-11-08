@@ -3,7 +3,10 @@ author: jorgeml
 date: 2009-12-24 16:22:21+00:00
 draft: false
 title: Feliz Navidad
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2009/12/24/feliz-navidad-2/
 tags:
 - '2010'

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-01-29 22:01:24+00:00
 draft: false
 title: 'Elecciones 2008: mi programa'
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/01/30/elecciones-2008-mi-programa/
 tags:
 - '2008'

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-07-03 15:29:05+00:00
 draft: false
 title: De fiesta
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/07/03/de-fiesta/
 ---
 

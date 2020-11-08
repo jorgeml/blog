@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-02-20 19:42:00+00:00
 draft: false
 title: Fin de exámenes
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/02/20/fin-de-examenes/
 tags:
 - universidad

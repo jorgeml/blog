@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-08-24 14:31:36+00:00
 draft: false
 title: Blogs que vienen y van
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/08/24/blogs-que-vienen-y-van/
 tags:
 - www

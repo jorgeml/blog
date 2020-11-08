@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-01-06 23:35:21+00:00
 draft: false
 title: Gas Natural Servicios
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/01/07/gas-natural-servicios/
 tags:
 - gas natural

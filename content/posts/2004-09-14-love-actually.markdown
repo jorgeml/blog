@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-09-14 09:17:16+00:00
 draft: false
 title: Love Actually
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/09/14/love-actually/
 tags:
 - cine

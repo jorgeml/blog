@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-04-15 14:29:31+00:00
 draft: false
 title: El camino del exceso
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/04/15/el-camino-del-exceso/
 tags:
 - erasmus

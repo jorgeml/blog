@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-12-21 00:55:17+00:00
 draft: false
 title: Downtime
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/12/21/downtime/
 tags:
 - ordenadores

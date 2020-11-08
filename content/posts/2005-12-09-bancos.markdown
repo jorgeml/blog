@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-12-09 10:58:28+00:00
 draft: false
 title: Bancos
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/12/09/bancos/
 tags:
 - bancos

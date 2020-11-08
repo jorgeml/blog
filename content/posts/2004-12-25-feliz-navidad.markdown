@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-12-25 12:18:34+00:00
 draft: false
 title: Feliz Navidad
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/12/25/feliz-navidad/
 tags:
 - todo a cien

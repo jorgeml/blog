@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-07-22 10:04:44+00:00
 draft: false
 title: Spiderman 2
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/07/22/spiderman-2/
 tags:
 - cine

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-01-04 15:28:13+00:00
 draft: false
 title: Con la burbuja estábamos mejor
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/01/04/con-la-burbuja-estabamos-mejor/
 tags:
 - burbuja

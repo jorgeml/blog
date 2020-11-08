@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-06-03 22:59:32+00:00
 draft: false
 title: Diario versus horóscopo
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/06/03/diario-versus-horoscopo/
 tags:
 - todo a cien

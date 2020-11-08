@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-05-22 17:57:57+00:00
 draft: false
 title: Barquito pequeñito
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/05/22/barquito-pequenito/
 tags:
 - navegar

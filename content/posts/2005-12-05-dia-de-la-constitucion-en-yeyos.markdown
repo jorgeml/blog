@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-12-05 20:18:36+00:00
 draft: false
 title: Día de la Constitución en yeyo's
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/12/05/dia-de-la-constitucion-en-yeyos/
 tags:
 - todo a cien

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-02-01 22:13:50+00:00
 draft: false
 title: Spam en los comentarios
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/02/01/spam-en-los-comentarios/
 tags:
 - www

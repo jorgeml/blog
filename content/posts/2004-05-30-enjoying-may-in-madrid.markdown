@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-05-30 20:21:27+00:00
 draft: false
 title: Enjoying May in Madrid
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/05/30/enjoying-may-in-madrid/
 tags:
 - madrid

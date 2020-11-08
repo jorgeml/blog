@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-11-26 09:24:01+00:00
 draft: false
 title: Be legal, my friend
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/11/26/be-legal-my-friend/
 tags:
 - cultura

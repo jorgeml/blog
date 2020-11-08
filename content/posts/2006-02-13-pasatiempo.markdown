@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-02-13 19:31:55+00:00
 draft: false
 title: Pasatiempo
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/02/13/pasatiempo/
 tags:
 - ordenadores

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-04-04 19:05:00+00:00
 draft: false
 title: Otto
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/04/04/otto/
 tags:
 - beca

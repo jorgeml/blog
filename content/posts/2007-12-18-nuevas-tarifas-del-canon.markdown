@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-12-18 22:50:26+00:00
 draft: false
 title: Nuevas tarifas del canon
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/12/19/nuevas-tarifas-del-canon/
 tags:
 - canon

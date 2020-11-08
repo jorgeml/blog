@@ -3,7 +3,10 @@ author: jorgeml
 date: 2009-06-20 21:18:04+00:00
 draft: false
 title: Ya somos tres en casa
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2009/06/20/ya-somos-tres-en-casa/
 tags:
 - animales

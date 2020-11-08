@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-02-28 19:37:40+00:00
 draft: false
 title: Hace mucho frío
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/02/28/hace-mucho-frio/
 tags:
 - viajes

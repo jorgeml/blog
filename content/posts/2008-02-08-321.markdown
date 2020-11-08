@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-02-08 13:48:09+00:00
 draft: false
 title: 3...2...1...
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/02/08/321/
 tags:
 - japan

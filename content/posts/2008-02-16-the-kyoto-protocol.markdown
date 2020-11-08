@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-02-16 06:49:59+00:00
 draft: false
 title: The Kyoto protocol
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/02/16/the-kyoto-protocol/
 tags:
 - japan

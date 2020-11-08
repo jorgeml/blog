@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-08-22 14:59:37+00:00
 draft: false
 title: Leaving Tsunami
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/08/22/leaving-tsunami/
 tags:
 - noticias

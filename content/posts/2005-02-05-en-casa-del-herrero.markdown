@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-02-05 13:23:19+00:00
 draft: false
 title: En casa del herrero
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/02/05/en-casa-del-herrero/
 tags:
 - internet

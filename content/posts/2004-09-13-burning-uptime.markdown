@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-09-13 18:33:41+00:00
 draft: false
 title: Burning uptime
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/09/13/burning-uptime/
 tags:
 - ordenadores

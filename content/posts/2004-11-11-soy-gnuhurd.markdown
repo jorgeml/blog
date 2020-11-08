@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-11-11 17:12:58+00:00
 draft: false
 title: Soy GNU/Hurd
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/11/11/soy-gnuhurd/
 tags:
 - ordenadores

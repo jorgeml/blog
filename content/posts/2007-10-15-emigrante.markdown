@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-10-15 19:30:50+00:00
 draft: false
 title: Emigrante
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/10/15/emigrante/
 tags:
 - amsterdam

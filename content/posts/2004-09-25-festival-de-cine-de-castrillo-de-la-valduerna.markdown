@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-09-25 10:49:00+00:00
 draft: false
 title: Festival de cine de Castrillo de la Valduerna
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/09/25/festival-de-cine-de-castrillo-de-la-valduerna/
 tags:
 - cine

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-11-14 22:31:13+00:00
 draft: false
 title: Harás carrera, pero no verdad.
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/11/14/haras-carrera-pero-no-verdad/
 tags:
 - noticias

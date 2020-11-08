@@ -2,7 +2,10 @@
 author: jorgeml
 date: 2006-01-30 10:55:55+00:00
 draft: false
-title: Sneeuw
+type: 
+- post
+- posts
+comments: true
 type: post
 url: /2006/01/30/sneeuw/
 tags:

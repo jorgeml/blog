@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-07-02 19:22:05+00:00
 draft: false
 title: Una de bitácoras
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/07/02/una-de-bitacoras/
 tags:
 - www

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-09-04 15:45:57+00:00
 draft: false
 title: Y ahora con OpenID
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/09/04/y-ahora-con-openid/
 tags:
 - internet

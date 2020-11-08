@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-09-27 19:46:24+00:00
 draft: false
 title: Los cutres me insultan
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/09/27/los-cutres-me-insultan/
 tags:
 - cine

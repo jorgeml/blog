@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-08-09 20:05:46+00:00
 draft: false
 title: El Nintendo es malo malísimo, infernal
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/08/09/el-nintendo-es-malo-malisimo-infernal/
 tags:
 - humor

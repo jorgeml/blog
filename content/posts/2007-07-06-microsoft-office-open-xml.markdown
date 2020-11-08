@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-07-06 21:04:34+00:00
 draft: false
 title: Microsoft Office Open XML
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/07/06/microsoft-office-open-xml/
 tags:
 - ordenadores

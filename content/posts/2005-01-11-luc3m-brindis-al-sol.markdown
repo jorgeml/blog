@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-01-11 19:58:33+00:00
 draft: false
 title: LUC3M - Brindis al Sol
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/01/11/luc3m-brindis-al-sol/
 tags:
 - ordenadores

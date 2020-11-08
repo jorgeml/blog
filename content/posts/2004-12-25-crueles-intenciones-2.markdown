@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-12-25 18:54:59+00:00
 draft: false
 title: Crueles Intenciones 2
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/12/25/crueles-intenciones-2/
 tags:
 - cine

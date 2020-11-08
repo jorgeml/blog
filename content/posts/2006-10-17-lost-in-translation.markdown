@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-10-17 09:25:41+00:00
 draft: false
 title: Lost in Translation
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/10/17/lost-in-translation/
 tags:
 - erasmus

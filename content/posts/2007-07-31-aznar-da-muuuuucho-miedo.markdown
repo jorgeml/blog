@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-07-31 13:22:52+00:00
 draft: false
 title: Aznar da muuuuucho miedo
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/07/31/aznar-da-muuuuucho-miedo/
 tags:
 - humor

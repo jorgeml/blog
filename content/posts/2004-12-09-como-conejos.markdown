@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-12-09 12:59:33+00:00
 draft: false
 title: Como conejos
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/12/09/como-conejos/
 tags:
 - noticias

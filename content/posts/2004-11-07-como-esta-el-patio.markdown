@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-11-07 12:39:45+00:00
 draft: false
 title: Como está el patio
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/11/07/como-esta-el-patio/
 tags:
 - noticias

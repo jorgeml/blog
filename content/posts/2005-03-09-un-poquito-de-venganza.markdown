@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-03-09 18:57:02+00:00
 draft: false
 title: Un poquito de venganza
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/03/09/un-poquito-de-venganza/
 tags:
 - www

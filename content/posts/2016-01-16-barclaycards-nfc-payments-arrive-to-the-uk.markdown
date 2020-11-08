@@ -3,7 +3,10 @@ author: jorgeml
 date: 2016-01-16 18:56:06+00:00
 draft: false
 title: Barclaycard's NFC payments arrive to the UK
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2016/01/16/barclaycards-nfc-payments-arrive-to-the-uk/
 tags:
 - android

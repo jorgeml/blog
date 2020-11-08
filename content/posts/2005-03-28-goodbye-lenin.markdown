@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-03-28 16:35:03+00:00
 draft: false
 title: Goodbye! Lenin
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/03/28/goodbye-lenin/
 tags:
 - cine

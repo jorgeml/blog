@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-07-12 12:18:24+00:00
 draft: false
 title: Elecciones en el Mandril
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/07/12/elecciones-en-el-mandril/
 ---
 

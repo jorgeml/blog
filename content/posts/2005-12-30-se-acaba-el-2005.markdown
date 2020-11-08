@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-12-30 21:53:19+00:00
 draft: false
 title: Se acaba el 2005
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/12/30/se-acaba-el-2005/
 tags:
 - todo a cien

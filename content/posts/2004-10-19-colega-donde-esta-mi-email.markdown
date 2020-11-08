@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-10-19 18:31:50+00:00
 draft: false
 title: Colega, ¿dónde está mi email?
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/10/19/colega-donde-esta-mi-email/
 tags:
 - internet

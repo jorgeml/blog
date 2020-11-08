@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-03-02 02:06:45+00:00
 draft: false
 title: Telephone in the train
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/03/02/telephone-in-the-train/
 tags:
 - japan

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-09-12 21:03:49+00:00
 draft: false
 title: Outfoxed
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/09/12/outfoxed/
 tags:
 - cine

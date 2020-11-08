@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-05-01 14:10:26+00:00
 draft: false
 title: Fuenteovejuna
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/05/01/fuenteovejuna/
 tags:
 - noticias

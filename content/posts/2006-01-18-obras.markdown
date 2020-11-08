@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-01-18 17:58:59+00:00
 draft: false
 title: Obras
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/01/18/obras/
 tags:
 - todo a cien

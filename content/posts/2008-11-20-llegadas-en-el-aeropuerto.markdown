@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-11-20 18:38:50+00:00
 draft: false
 title: Llegadas en el aeropuerto
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/11/20/llegadas-en-el-aeropuerto/
 tags:
 - aeropuerto

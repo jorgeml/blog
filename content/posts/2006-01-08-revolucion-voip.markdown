@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-01-08 18:38:08+00:00
 draft: false
 title: Revolución VoIP
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/01/08/revolucion-voip/
 tags:
 - internet

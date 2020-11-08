@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-12-29 17:40:40+00:00
 draft: false
 title: Mala memoria
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/12/29/mala-memoria/
 tags:
 - ordenadores

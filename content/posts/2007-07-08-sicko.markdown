@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-07-08 15:12:37+00:00
 draft: false
 title: SiCKO
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/07/08/sicko/
 tags:
 - cine

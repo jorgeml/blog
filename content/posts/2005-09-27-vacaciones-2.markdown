@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-09-27 16:11:00+00:00
 draft: false
 title: Vacaciones
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/09/27/vacaciones-2/
 tags:
 - viajes

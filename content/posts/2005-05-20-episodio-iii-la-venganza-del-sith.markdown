@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-05-20 14:03:59+00:00
 draft: false
 title: 'Episodio III: La venganza del Sith'
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/05/20/episodio-iii-la-venganza-del-sith/
 tags:
 - cine

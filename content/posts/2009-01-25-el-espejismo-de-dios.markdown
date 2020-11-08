@@ -3,7 +3,10 @@ author: jorgeml
 date: 2009-01-25 09:54:15+00:00
 draft: false
 title: El espejismo de Dios
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2009/01/25/el-espejismo-de-dios/
 tags:
 - ateísmo

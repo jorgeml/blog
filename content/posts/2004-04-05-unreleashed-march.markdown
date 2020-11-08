@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-04-05 18:34:25+00:00
 draft: false
 title: Unreleashed March
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/04/05/unreleashed-march/
 tags:
 - erasmus

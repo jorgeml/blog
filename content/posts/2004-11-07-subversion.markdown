@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-11-07 13:01:44+00:00
 draft: false
 title: Subversion
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/11/07/subversion/
 tags:
 - ordenadores

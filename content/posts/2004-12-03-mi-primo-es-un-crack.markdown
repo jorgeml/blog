@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-12-03 23:45:30+00:00
 draft: false
 title: Mi primo es un crack
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/12/04/mi-primo-es-un-crack/
 tags:
 - baloncesto

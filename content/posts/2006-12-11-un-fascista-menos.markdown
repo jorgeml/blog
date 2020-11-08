@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-12-11 12:20:49+00:00
 draft: false
 title: Un fascista menos
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/12/11/un-fascista-menos/
 tags:
 - noticias

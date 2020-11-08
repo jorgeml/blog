@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-08-23 15:06:29+00:00
 draft: false
 title: Fallece Ángel Álvarez
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/08/23/fallece-angel-alvarez/
 tags:
 - música

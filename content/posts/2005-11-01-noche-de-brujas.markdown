@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-11-01 11:55:21+00:00
 draft: false
 title: Noche de brujas
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/11/01/noche-de-brujas/
 tags:
 - todo a cien

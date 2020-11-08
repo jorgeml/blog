@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-09-27 16:03:00+00:00
 draft: false
 title: Trilogía clásica Star Wars
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/09/27/trilogia-clasica-star-wars/
 tags:
 - cine

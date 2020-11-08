@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-02-28 19:34:28+00:00
 draft: false
 title: Adios ser superior
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/02/28/adios-ser-superior/
 tags:
 - real madrid

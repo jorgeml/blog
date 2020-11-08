@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-12-31 22:10:36+00:00
 draft: false
 title: Adios 2004
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/12/31/adios-2004/
 tags:
 - todo a cien

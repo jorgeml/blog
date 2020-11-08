@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-01-29 17:35:45+00:00
 draft: false
 title: ¿Cómo se graba un disco?
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/01/29/como-se-graba-un-disco/
 tags:
 - música

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-08-26 19:35:34+00:00
 draft: false
 title: Abrochense los cinturones
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/08/26/abrochense-los-cinturones/
 tags:
 - erasmus

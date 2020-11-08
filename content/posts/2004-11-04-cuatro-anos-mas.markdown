@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-11-04 14:47:54+00:00
 draft: false
 title: Cuatro años más
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/11/04/cuatro-anos-mas/
 tags:
 - noticias

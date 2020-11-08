@@ -3,7 +3,10 @@ author: jorgeml
 date: 2009-03-14 17:56:38+00:00
 draft: false
 title: 'Arrow: RIP'
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2009/03/14/arrow-rip/
 tags:
 - arrow

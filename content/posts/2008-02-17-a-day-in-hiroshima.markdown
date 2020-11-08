@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-02-17 15:31:44+00:00
 draft: false
 title: A-Day in Hiroshima
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/02/17/a-day-in-hiroshima/
 tags:
 - hiroshima

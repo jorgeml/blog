@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-04-22 17:41:28+00:00
 draft: false
 title: Si algo funciona, no lo toques
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/04/22/si-algo-funciona-no-lo-toques/
 tags:
 - openbank

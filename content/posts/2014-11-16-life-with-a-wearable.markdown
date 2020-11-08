@@ -3,7 +3,10 @@ author: jorgeml
 date: 2014-11-16 20:34:01+00:00
 draft: false
 title: Life with a wearable
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2014/11/16/life-with-a-wearable/
 tags:
 - android

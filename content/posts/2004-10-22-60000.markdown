@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-10-22 17:05:02+00:00
 draft: false
 title: '60.000'
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/10/22/60000/
 tags:
 - coche

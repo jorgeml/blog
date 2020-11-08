@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-10-02 19:13:53+00:00
 draft: false
 title: Welcome meeting
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/10/02/welcome-meeting/
 tags:
 - erasmus

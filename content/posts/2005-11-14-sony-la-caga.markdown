@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-11-14 22:20:37+00:00
 draft: false
 title: Sony la caga
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/11/14/sony-la-caga/
 tags:
 - música

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-04-04 11:16:23+00:00
 draft: false
 title: Graves problemas financieros en Vueling (actualizado 14/04)
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/04/04/graves-problemas-financieros-en-vueling/
 tags:
 - problemas

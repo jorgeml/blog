@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-10-10 22:32:53+00:00
 draft: false
 title: La pecera de Miguel
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/10/10/la-pecera-de-miguel/
 tags:
 - todo a cien

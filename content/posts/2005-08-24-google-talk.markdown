@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-08-24 12:44:42+00:00
 draft: false
 title: Google Talk
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/08/24/google-talk/
 tags:
 - internet

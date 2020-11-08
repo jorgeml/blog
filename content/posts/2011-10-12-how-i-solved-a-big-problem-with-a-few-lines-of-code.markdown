@@ -3,7 +3,10 @@ author: jorgeml
 date: 2011-10-12 16:49:18+00:00
 draft: false
 title: How I solved a big problem with a few lines of code
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2011/10/12/how-i-solved-a-big-problem-with-a-few-lines-of-code/
 tags:
 - asterisk

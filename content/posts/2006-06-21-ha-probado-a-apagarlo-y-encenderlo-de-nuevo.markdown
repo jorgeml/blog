@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-06-21 19:21:48+00:00
 draft: false
 title: ¿Ha probado a apagarlo y encenderlo de nuevo?
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/06/21/ha-probado-a-apagarlo-y-encenderlo-de-nuevo/
 tags:
 - ordenadores

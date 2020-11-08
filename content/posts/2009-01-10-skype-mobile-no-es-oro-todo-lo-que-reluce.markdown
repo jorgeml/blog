@@ -3,7 +3,10 @@ author: jorgeml
 date: 2009-01-10 16:31:58+00:00
 draft: false
 title: 'Skype Mobile: no es oro todo lo que reluce'
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2009/01/10/skype-mobile-no-es-oro-todo-lo-que-reluce/
 tags:
 - internet

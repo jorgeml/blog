@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-01-03 10:55:05+00:00
 draft: false
 title: Cambios
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/01/03/cambios/
 tags:
 - www

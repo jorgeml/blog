@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-12-10 17:36:17+00:00
 draft: false
 title: Cómo cocinar a lo autóctono
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/12/10/como-cocinar-a-lo-autoctono/
 tags:
 - erasmus

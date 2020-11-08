@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-06-14 17:31:24+00:00
 draft: false
 title: Pequeñas joyas en YouTube
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/06/14/pequenas-joyas-en-youtube/
 tags:
 - humor

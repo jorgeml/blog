@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-02-01 22:18:06+00:00
 draft: false
 title: Luto en Puerto Hurraco
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/02/01/luto-en-puerto-hurraco/
 tags:
 - noticias

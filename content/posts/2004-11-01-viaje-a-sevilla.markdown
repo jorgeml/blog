@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-11-01 15:51:46+00:00
 draft: false
 title: Viaje a Sevilla
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/11/01/viaje-a-sevilla/
 tags:
 - erasmus

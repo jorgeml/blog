@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-12-31 13:49:15+00:00
 draft: false
 title: La junta...
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/12/31/la-junta/
 tags:
 - estudiantes

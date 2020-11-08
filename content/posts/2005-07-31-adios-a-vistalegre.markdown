@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-07-31 11:05:57+00:00
 draft: false
 title: Adios a Vistalegre
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/07/31/adios-a-vistalegre/
 tags:
 - deporte

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-01-13 23:52:45+00:00
 draft: false
 title: iPhone y Keynote
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/01/14/iphone-y-keynote/
 tags:
 - ordenadores

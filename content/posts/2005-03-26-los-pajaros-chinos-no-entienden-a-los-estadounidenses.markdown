@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-03-26 12:33:16+00:00
 draft: false
 title: Los pájaros chinos no entienden a los estadounidenses
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/03/26/los-pajaros-chinos-no-entienden-a-los-estadounidenses/
 tags:
 - noticias

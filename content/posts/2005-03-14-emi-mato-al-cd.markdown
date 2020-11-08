@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-03-14 18:41:01+00:00
 draft: false
 title: EMI mató al CD
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/03/14/emi-mato-al-cd/
 tags:
 - música

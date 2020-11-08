@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-07-12 10:49:08+00:00
 draft: false
 title: Se retira un torero
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/07/12/se-retira-un-torero/
 tags:
 - baloncesto

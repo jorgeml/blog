@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-04-13 18:44:24+00:00
 draft: false
 title: Google Calendar
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/04/13/google-calendar/
 tags:
 - www

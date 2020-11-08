@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-12-27 22:21:15+00:00
 draft: false
 title: La larga espera
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/12/28/la-larga-espera/
 tags:
 - colas

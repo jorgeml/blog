@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-05-26 19:19:37+00:00
 draft: false
 title: Página de inicio
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/05/26/pagina-de-inicio/
 tags:
 - www

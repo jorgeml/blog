@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-11-28 20:39:00+00:00
 draft: false
 title: Plataforma Nacional
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/11/28/plataforma-nacional/
 tags:
 - erasmus

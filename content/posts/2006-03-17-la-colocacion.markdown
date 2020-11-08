@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-03-17 20:27:36+00:00
 draft: false
 title: La colocación
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/03/17/la-colocacion/
 tags:
 - beca

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2009-05-21 15:24:48+00:00
 draft: false
 title: T-Mobile G1 (HTC Dream)
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2009/05/21/t-mobile-g1-htc-dream/
 tags:
 - g1

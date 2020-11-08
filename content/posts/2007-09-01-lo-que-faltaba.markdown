@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-09-01 08:02:19+00:00
 draft: false
 title: Lo que faltaba
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/09/01/lo-que-faltaba/
 tags:
 - ordenadores

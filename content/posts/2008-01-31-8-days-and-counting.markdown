@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-01-31 20:54:56+00:00
 draft: false
 title: 8 days... and counting.
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/01/31/8-days-and-counting/
 tags:
 - japan

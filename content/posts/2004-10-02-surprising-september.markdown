@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-10-02 19:20:40+00:00
 draft: false
 title: Surprising September
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/10/02/surprising-september/
 tags:
 - erasmus

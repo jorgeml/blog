@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-07-17 22:34:39+00:00
 draft: false
 title: En este bar hay más cabrones que botellines
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/07/17/en-este-bar-hay-mas-cabrones-que-botellines/
 tags:
 - todo a cien

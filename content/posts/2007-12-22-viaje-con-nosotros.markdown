@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-12-22 15:42:46+00:00
 draft: false
 title: Viaje con nosotros
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/12/22/viaje-con-nosotros/
 tags:
 - aena

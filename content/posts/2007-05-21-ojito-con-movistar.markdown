@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-05-21 22:03:10+00:00
 draft: false
 title: Ojito con Movistar
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/05/21/ojito-con-movistar/
 tags:
 - noticias

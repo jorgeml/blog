@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-10-17 09:22:52+00:00
 draft: false
 title: Se separan
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/10/17/se-separan/
 tags:
 - música

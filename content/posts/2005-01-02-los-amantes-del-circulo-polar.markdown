@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-01-02 23:27:16+00:00
 draft: false
 title: Los amantes del círculo polar
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/01/03/los-amantes-del-circulo-polar/
 tags:
 - cine

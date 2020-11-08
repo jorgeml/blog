@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-01-03 13:40:14+00:00
 draft: false
 title: Feliz 2008
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/01/03/feliz-2008/
 tags:
 - '2008'

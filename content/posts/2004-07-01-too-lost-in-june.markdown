@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-07-01 10:18:45+00:00
 draft: false
 title: Too lost in June
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/07/01/too-lost-in-june/
 ---
 

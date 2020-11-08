@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-11-06 18:52:57+00:00
 draft: false
 title: Por qué me gusta Berlín más que Madrid
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/11/06/por-que-me-gusta-berlin-mas-que-madrid/
 tags:
 - berlín

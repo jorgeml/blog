@@ -3,7 +3,10 @@ author: jorgeml
 date: 2005-10-16 19:45:30+00:00
 draft: false
 title: Ik ben de nieuwe collega
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2005/10/16/ik-ben-de-nieuw-collega/
 tags:
 - holland

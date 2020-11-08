@@ -3,7 +3,10 @@ author: jorgeml
 date: 2007-11-22 19:55:35+00:00
 draft: false
 title: Vicisitud y sordidez
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2007/11/22/vicisitud-y-sordidez/
 tags:
 - blog

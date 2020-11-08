@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-01-06 23:51:09+00:00
 draft: false
 title: A vueltas con la Televisión Digital Terrestre
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/01/07/a-vueltas-con-la-television-digital-terrestre/
 tags:
 - ordenadores

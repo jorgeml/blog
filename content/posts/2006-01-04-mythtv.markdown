@@ -3,7 +3,10 @@ author: jorgeml
 date: 2006-01-04 12:35:59+00:00
 draft: false
 title: MythTV
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2006/01/04/mythtv/
 tags:
 - ordenadores

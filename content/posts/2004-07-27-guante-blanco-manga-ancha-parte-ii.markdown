@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-07-27 15:54:49+00:00
 draft: false
 title: Guante blanco, manga ancha (parte II)
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/07/27/guante-blanco-manga-ancha-parte-ii/
 tags:
 - libro

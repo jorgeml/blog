@@ -3,7 +3,10 @@ author: jorgeml
 date: 2004-06-04 19:58:54+00:00
 draft: false
 title: Una web y unas películas
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2004/06/04/una-web-y-unas-peliculas/
 tags:
 - cine
