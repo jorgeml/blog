@@ -4,6 +4,7 @@ date: 2009-09-29 15:25:21+00:00
 draft: false
 title: No a Madrid 2016
 type: post
+comments: true
 url: /2009/09/29/no-a-madrid-2016/
 tags:
 - '2016'
