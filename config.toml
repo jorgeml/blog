@@ -1,14 +1,23 @@
 baseURL = "https://jorgeml.me/"
-languageCode = "en-gb"
+languageCode = "en-GB"
 title = "my name is Jorge"
 theme = "hello-friend-ng"
-MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
+
+
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
 SectionPagesMenu = "main"
-#Paginate = 9 # this is set low for demonstrating with dummy content. Set to a higher number
-disqusShortname = "jorgeml"
+Paginate = 10
+DisqusShortname = "jorgeml"
 googleAnalytics = "UA-146441738-1"
 enableRobotsTXT = true
+enableEmoji     = true
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
 
 [sitemap]
   changefreq = "monthly"
@@ -25,7 +34,8 @@ enableRobotsTXT = true
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
   gravatar = "jorgeml@jorgeml.me"
-  mastodon = "https://mastodon.social/@jorgeml"
+  disableReadOtherPosts = false
+  enableSharingButtons = true
 
   [[params.social]]
     name = "twitter"
@@ -39,7 +49,7 @@ enableRobotsTXT = true
     name = "github"
     url = "https://github.com/jorgeml"
 
-  [[params.social]]    
+  [[params.social]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/jorgeml/"
 
