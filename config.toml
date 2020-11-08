@@ -1,7 +1,7 @@
 baseURL = "https://jorgeml.me/"
 languageCode = "en-gb"
-title = "it's my life"
-theme = "hyde"
+title = "my name is Jorge"
+theme = "hello-friend-ng"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
@@ -16,24 +16,55 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  description = "it's a wonderful, wonderful life"
-  #copyright = "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\"><img alt=\"Creative Commons Licence\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/80x15.png\" /></a> This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\" class=\"hover-white no-underline white-70 dn dib-ns\">Creative Commons Attribution-ShareAlike 4.0 International License</a>."
+  homeSubtitle = "and one day I'll have a proper blog."
   copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
   license = "CC BY-SA 4.0"
   licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
   gravatar = "jorgeml@jorgeml.me"
-  facebook = ""
-  twitter = "https://twitter.com/jorgeml"
-  instagram = "https://www.instagram.com/jorge__martinez_lopez/"
-  youtube = ""
-  github = "https://github.com/jorgeml"
-  gitlab = ""
-  linkedin = "https://www.linkedin.com/in/jorgeml/"
   mastodon = "https://mastodon.social/@jorgeml"
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  #background_color_class = "bg-black"
-  #body_classes = "roboto bg-near-white"
-  featured_image = "/images/hero-image.jpg"
-  #recent_posts_number = 2
-  themeColor = "theme-base-0f"
+
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/jorgeml"
+
+  [[params.social]]
+    name = "instagram"
+    url = "https://instagram.com/jorge__martinez_lopez/"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/jorgeml"
+
+  [[params.social]]    
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/jorgeml/"
+
+  [[params.social]]
+    name = "mastodon"
+    url = "https://mastodon.social/@jorgeml"
+
+  [[params.social]]
+    name = "matrix"
+    url = "https://matrix.to/#/@jorgeml:matrix.org"
+
+  [[params.social]]
+    name = "reddit"
+    url = "https://www.reddit.com/user/jorgeml"
+
+ [languages]
+  [languages.en]
+    title = "my name is Jorge"
+    subtitle = "one day I'll have a proper blog"
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+  [languages.es]
+    title = "mi nombre es Jorge"
+    subtitle = "algún día tendré un blog"
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Leer otras entradas"
+
 
