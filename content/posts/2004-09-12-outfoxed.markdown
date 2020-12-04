@@ -6,7 +6,7 @@ title: Outfoxed
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/09/12/outfoxed/
 tags:
 - cine

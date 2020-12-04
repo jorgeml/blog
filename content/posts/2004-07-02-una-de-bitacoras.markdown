@@ -6,7 +6,7 @@ title: Una de bitácoras
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/07/02/una-de-bitacoras/
 tags:
 - www

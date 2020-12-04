@@ -6,7 +6,7 @@ title: El madelman secuestrado y el sueldo del Nescafé
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/02/02/el-madelman-secuestrado-y-el-sueldo-del-nescafe/
 tags:
 - noticias

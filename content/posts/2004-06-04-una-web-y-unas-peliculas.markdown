@@ -6,7 +6,7 @@ title: Una web y unas películas
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/06/04/una-web-y-unas-peliculas/
 tags:
 - cine

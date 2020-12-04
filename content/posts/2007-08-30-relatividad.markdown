@@ -6,7 +6,7 @@ title: Relatividad
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/08/30/relatividad/
 tags:
 - noticias

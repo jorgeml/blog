@@ -6,7 +6,7 @@ title: Un grande, en la plaza Mayor
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/08/11/un-grande-en-la-plaza-mayor/
 tags:
 - música

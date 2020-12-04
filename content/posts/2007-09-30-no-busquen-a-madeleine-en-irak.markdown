@@ -6,7 +6,7 @@ title: No busquen a Madeleine en Irak
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/10/01/no-busquen-a-madeleine-en-irak/
 tags:
 - guerra

@@ -6,7 +6,7 @@ title: Elecciones en el Mandril
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/07/12/elecciones-en-el-mandril/
 ---
 

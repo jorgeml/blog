@@ -6,7 +6,7 @@ title: Me traslado
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/10/19/me-traslado/
 tags:
 - erasmus

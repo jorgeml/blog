@@ -6,7 +6,7 @@ title: 'Arrow: RIP'
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2009/03/14/arrow-rip/
 tags:
 - arrow

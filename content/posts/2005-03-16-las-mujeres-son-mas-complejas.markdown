@@ -6,7 +6,7 @@ title: Las mujeres son más complejas
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/03/16/las-mujeres-son-mas-complejas/
 tags:
 - noticias

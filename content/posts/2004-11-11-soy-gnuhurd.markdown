@@ -6,7 +6,7 @@ title: Soy GNU/Hurd
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/11/11/soy-gnuhurd/
 tags:
 - ordenadores

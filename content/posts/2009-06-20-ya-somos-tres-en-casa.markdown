@@ -6,7 +6,7 @@ title: Ya somos tres en casa
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2009/06/20/ya-somos-tres-en-casa/
 tags:
 - animales

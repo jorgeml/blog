@@ -6,7 +6,7 @@ title: En este bar hay más cabrones que botellines
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/07/17/en-este-bar-hay-mas-cabrones-que-botellines/
 tags:
 - todo a cien

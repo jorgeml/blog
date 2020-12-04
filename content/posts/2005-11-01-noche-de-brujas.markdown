@@ -6,7 +6,7 @@ title: Noche de brujas
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/11/01/noche-de-brujas/
 tags:
 - todo a cien

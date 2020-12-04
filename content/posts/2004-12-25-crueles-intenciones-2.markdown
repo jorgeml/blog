@@ -6,7 +6,7 @@ title: Crueles Intenciones 2
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/12/25/crueles-intenciones-2/
 tags:
 - cine

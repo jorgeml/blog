@@ -6,7 +6,7 @@ title: Amanece que no es poco
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/04/13/amanece-que-no-es-poco/
 tags:
 - cine

@@ -6,7 +6,7 @@ title: Mi primo es un crack
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/12/04/mi-primo-es-un-crack/
 tags:
 - baloncesto

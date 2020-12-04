@@ -6,7 +6,7 @@ title: El cochecito y las mujeres
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/12/07/el-cochecito-y-las-mujeres/
 tags:
 - todo a cien

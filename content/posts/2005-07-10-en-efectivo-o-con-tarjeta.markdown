@@ -6,7 +6,7 @@ title: ¿En efectivo o con tarjeta?
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/07/11/en-efectivo-o-con-tarjeta/
 tags:
 - trabajo

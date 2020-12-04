@@ -6,7 +6,7 @@ title: Jugando con el router
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2010/11/21/jugando-con-el-router/
 tags:
 - internet

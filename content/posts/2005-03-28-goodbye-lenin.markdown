@@ -6,7 +6,7 @@ title: Goodbye! Lenin
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/03/28/goodbye-lenin/
 tags:
 - cine

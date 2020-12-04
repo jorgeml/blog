@@ -6,7 +6,7 @@ title: Pásalo
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/03/17/pasalo/
 tags:
 - todo a cien

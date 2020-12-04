@@ -6,7 +6,7 @@ title: El fin de la cosa
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/06/07/el-fin-de-la-cosa/
 tags:
 - internet

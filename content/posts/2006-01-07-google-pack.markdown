@@ -6,7 +6,7 @@ title: Google Pack
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/01/07/google-pack/
 tags:
 - internet

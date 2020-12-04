@@ -6,7 +6,7 @@ title: Países europeos en los que he estado
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/12/13/paises-europeos-en-los-que-he-estado/
 tags:
 - viajes

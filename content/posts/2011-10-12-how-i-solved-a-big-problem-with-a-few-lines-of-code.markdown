@@ -6,7 +6,7 @@ title: How I solved a big problem with a few lines of code
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2011/10/12/how-i-solved-a-big-problem-with-a-few-lines-of-code/
 tags:
 - asterisk

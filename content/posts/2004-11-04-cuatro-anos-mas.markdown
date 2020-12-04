@@ -6,7 +6,7 @@ title: Cuatro años más
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/11/04/cuatro-anos-mas/
 tags:
 - noticias

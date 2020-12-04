@@ -6,7 +6,7 @@ title: La larga espera
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/12/28/la-larga-espera/
 tags:
 - colas

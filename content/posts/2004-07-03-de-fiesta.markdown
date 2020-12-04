@@ -6,7 +6,7 @@ title: De fiesta
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/07/03/de-fiesta/
 ---
 

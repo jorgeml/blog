@@ -6,7 +6,7 @@ title: Welcome meeting
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/10/02/welcome-meeting/
 tags:
 - erasmus

@@ -6,7 +6,7 @@ title: Cambios
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/01/03/cambios/
 tags:
 - www

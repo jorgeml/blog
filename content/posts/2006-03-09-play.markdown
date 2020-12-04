@@ -6,7 +6,7 @@ title: Play
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/03/09/play/
 tags:
 - beca

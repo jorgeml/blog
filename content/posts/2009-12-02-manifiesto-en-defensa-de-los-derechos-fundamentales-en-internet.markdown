@@ -6,7 +6,7 @@ title: 'Manifiesto: En defensa de los derechos fundamentales en Internet'
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2009/12/02/manifiesto-en-defensa-de-los-derechos-fundamentales-en-internet/
 tags:
 - derechos

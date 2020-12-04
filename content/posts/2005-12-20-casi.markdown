@@ -6,7 +6,7 @@ title: Casi...
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/12/20/casi/
 tags:
 - ordenadores

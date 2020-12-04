@@ -6,7 +6,7 @@ title: El conciertazo
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/04/03/el-conciertazo/
 tags:
 - música

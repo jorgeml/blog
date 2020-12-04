@@ -6,7 +6,7 @@ title: Jaiku
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/05/19/jaiku/
 tags:
 - internet

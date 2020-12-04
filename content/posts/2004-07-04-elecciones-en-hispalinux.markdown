@@ -6,7 +6,7 @@ title: Elecciones en Hispalinux
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/07/04/elecciones-en-hispalinux/
 tags:
 - ordenadores

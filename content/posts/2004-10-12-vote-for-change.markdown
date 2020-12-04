@@ -6,7 +6,7 @@ title: Vote for change
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/10/12/vote-for-change/
 tags:
 - noticias

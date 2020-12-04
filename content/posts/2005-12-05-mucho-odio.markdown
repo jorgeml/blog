@@ -6,7 +6,7 @@ title: Mucho odio
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/12/05/mucho-odio/
 tags:
 - todo a cien

@@ -6,7 +6,7 @@ title: Cómo cocinar a lo autóctono
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/12/10/como-cocinar-a-lo-autoctono/
 tags:
 - erasmus

@@ -6,7 +6,7 @@ title: Pasatiempo
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/02/13/pasatiempo/
 tags:
 - ordenadores

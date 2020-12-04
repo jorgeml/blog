@@ -6,7 +6,7 @@ title: Los amantes del círculo polar
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/01/03/los-amantes-del-circulo-polar/
 tags:
 - cine

@@ -6,7 +6,7 @@ title: Barquito pequeñito
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/05/22/barquito-pequenito/
 tags:
 - navegar

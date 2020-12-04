@@ -6,7 +6,7 @@ title: Burning uptime
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/09/13/burning-uptime/
 tags:
 - ordenadores

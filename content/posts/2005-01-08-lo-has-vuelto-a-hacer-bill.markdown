@@ -6,7 +6,7 @@ title: Lo has vuelto a hacer, Bill
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/01/08/lo-has-vuelto-a-hacer-bill/
 tags:
 - internet

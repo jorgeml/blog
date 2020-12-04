@@ -6,7 +6,7 @@ title: Google Talk + GMail
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/02/07/google-talk-gmail/
 tags:
 - www

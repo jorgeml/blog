@@ -6,7 +6,7 @@ title: Un poquito de venganza
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/03/09/un-poquito-de-venganza/
 tags:
 - www

@@ -6,7 +6,7 @@ title: Se separan
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/10/17/se-separan/
 tags:
 - música

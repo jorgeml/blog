@@ -6,7 +6,7 @@ title: Desvelado el misterio de la plataforma
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/08/14/desvelado-el-misterio-de-la-plataforma/
 tags:
 - erasmus

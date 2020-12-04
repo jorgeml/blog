@@ -6,7 +6,7 @@ title: Y otro
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/05/30/y-otro/
 tags:
 - internet

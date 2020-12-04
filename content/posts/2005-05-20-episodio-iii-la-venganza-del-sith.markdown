@@ -6,7 +6,7 @@ title: 'Episodio III: La venganza del Sith'
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/05/20/episodio-iii-la-venganza-del-sith/
 tags:
 - cine

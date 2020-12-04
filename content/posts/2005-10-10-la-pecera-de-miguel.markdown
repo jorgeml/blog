@@ -6,7 +6,7 @@ title: La pecera de Miguel
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/10/10/la-pecera-de-miguel/
 tags:
 - todo a cien

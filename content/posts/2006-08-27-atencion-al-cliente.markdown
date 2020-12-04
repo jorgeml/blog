@@ -6,7 +6,7 @@ title: Atención al cliente
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/08/27/atencion-al-cliente/
 tags:
 - erasmus

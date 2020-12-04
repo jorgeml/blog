@@ -6,7 +6,7 @@ title: Mundial
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/06/20/mundial/
 tags:
 - '2006'

@@ -6,7 +6,7 @@ title: First impressions
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2008/02/10/first-impressions/
 tags:
 - japan

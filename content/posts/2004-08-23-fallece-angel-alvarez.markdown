@@ -6,7 +6,7 @@ title: Fallece Ángel Álvarez
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/08/23/fallece-angel-alvarez/
 tags:
 - música

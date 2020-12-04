@@ -6,7 +6,7 @@ title: Trilogía clásica Star Wars
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/09/27/trilogia-clasica-star-wars/
 tags:
 - cine

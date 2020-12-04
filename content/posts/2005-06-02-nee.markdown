@@ -6,7 +6,7 @@ title: Nee
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/06/02/nee/
 tags:
 - noticias

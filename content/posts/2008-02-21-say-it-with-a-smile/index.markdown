@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-02-21 13:03:12+00:00
 draft: false
 title: Say it with a smile
-type: post
+type: 
+- post
+- posts
+comments: false
 url: /2008/02/21/say-it-with-a-smile/
 tags:
 - japan

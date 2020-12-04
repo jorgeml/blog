@@ -6,7 +6,7 @@ title: Batman begins
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/06/22/batman-begins/
 tags:
 - cine

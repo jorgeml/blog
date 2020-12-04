@@ -6,7 +6,7 @@ title: Internet mató a la radio
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/03/14/internet-mato-a-la-radio/
 tags:
 - internet

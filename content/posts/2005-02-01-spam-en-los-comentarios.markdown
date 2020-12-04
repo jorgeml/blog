@@ -6,7 +6,7 @@ title: Spam en los comentarios
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/02/01/spam-en-los-comentarios/
 tags:
 - www

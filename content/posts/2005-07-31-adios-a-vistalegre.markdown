@@ -6,7 +6,7 @@ title: Adios a Vistalegre
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/07/31/adios-a-vistalegre/
 tags:
 - deporte

@@ -6,7 +6,7 @@ title: Leaving Tsunami
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/08/22/leaving-tsunami/
 tags:
 - noticias

@@ -6,7 +6,7 @@ title: A más cuernos, más fértil
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/03/16/a-mas-cuernos-mas-fertil/
 tags:
 - noticias

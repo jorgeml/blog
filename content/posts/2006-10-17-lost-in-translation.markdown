@@ -6,7 +6,7 @@ title: Lost in Translation
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/10/17/lost-in-translation/
 tags:
 - erasmus

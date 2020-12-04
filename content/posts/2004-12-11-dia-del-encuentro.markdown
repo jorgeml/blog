@@ -6,7 +6,7 @@ title: Día del encuentro
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/12/11/dia-del-encuentro/
 tags:
 - todo a cien

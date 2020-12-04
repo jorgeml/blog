@@ -6,7 +6,7 @@ title: Viaje a Sevilla
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/11/01/viaje-a-sevilla/
 tags:
 - erasmus

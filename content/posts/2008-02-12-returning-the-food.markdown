@@ -6,7 +6,7 @@ title: Returning the food
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2008/02/12/returning-the-food/
 tags:
 - food

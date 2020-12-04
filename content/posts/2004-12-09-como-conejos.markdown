@@ -6,7 +6,7 @@ title: Como conejos
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/12/09/como-conejos/
 tags:
 - noticias

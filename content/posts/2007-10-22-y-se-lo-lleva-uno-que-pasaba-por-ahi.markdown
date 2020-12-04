@@ -6,7 +6,7 @@ title: Y se lo lleva uno que pasaba por ahí
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/10/22/y-se-lo-lleva-uno-que-pasaba-por-ahi/
 tags:
 - ferrari

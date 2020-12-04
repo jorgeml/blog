@@ -6,7 +6,7 @@ title: Hace mucho frío
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/02/28/hace-mucho-frio/
 tags:
 - viajes

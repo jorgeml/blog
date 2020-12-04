@@ -6,7 +6,7 @@ title: 3...2...1...
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2008/02/08/321/
 tags:
 - japan

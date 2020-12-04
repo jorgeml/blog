@@ -6,7 +6,7 @@ title: La colocación
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/03/17/la-colocacion/
 tags:
 - beca

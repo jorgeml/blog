@@ -6,7 +6,7 @@ title: Gmail
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/09/19/gmail/
 tags:
 - www

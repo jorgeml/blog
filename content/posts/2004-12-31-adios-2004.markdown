@@ -6,7 +6,7 @@ title: Adios 2004
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/12/31/adios-2004/
 tags:
 - todo a cien

@@ -6,7 +6,7 @@ title: Fin de exámenes
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/02/20/fin-de-examenes/
 tags:
 - universidad

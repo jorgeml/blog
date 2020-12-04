@@ -6,7 +6,7 @@ title: Getting Things Done
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2009/09/23/getting-things-done/
 tags:
 - gtd

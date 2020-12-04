@@ -6,7 +6,7 @@ title: Labordeta es un ser superior
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/01/31/labordeta-es-un-ser-superior/
 tags:
 - noticias

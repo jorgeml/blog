@@ -6,7 +6,7 @@ title: Revolución VoIP
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/01/08/revolucion-voip/
 tags:
 - internet

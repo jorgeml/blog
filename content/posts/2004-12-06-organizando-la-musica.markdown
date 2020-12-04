@@ -6,7 +6,7 @@ title: Organizando la música
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/12/07/organizando-la-musica/
 tags:
 - internet

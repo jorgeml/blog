@@ -6,7 +6,7 @@ title: Rewind
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/08/15/rewind/
 tags:
 - cine

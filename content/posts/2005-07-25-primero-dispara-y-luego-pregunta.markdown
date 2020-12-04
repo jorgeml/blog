@@ -6,7 +6,7 @@ title: Primero dispara y luego pregunta
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/07/25/primero-dispara-y-luego-pregunta/
 tags:
 - noticias

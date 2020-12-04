@@ -6,7 +6,7 @@ title: Venus, examenes, basket
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/06/14/venus-examenes-basket/
 tags:
 - noticias

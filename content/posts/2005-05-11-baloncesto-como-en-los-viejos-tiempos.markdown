@@ -6,7 +6,7 @@ title: Baloncesto como en los viejos tiempos
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/05/11/baloncesto-como-en-los-viejos-tiempos/
 tags:
 - deporte

@@ -6,7 +6,7 @@ title: Mala memoria
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/12/29/mala-memoria/
 tags:
 - ordenadores

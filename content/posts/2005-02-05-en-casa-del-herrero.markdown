@@ -6,7 +6,7 @@ title: En casa del herrero
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/02/05/en-casa-del-herrero/
 tags:
 - internet

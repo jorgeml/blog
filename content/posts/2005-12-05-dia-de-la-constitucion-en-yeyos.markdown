@@ -6,7 +6,7 @@ title: Día de la Constitución en yeyo's
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/12/05/dia-de-la-constitucion-en-yeyos/
 tags:
 - todo a cien

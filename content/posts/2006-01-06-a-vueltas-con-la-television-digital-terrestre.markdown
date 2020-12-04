@@ -6,7 +6,7 @@ title: A vueltas con la Televisión Digital Terrestre
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/01/07/a-vueltas-con-la-television-digital-terrestre/
 tags:
 - ordenadores

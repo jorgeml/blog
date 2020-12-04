@@ -6,7 +6,7 @@ title: Otro brindis al sol
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/08/17/otro-brindis-al-sol/
 tags:
 - noticias

@@ -6,7 +6,7 @@ title: SiCKO
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/07/08/sicko/
 tags:
 - cine

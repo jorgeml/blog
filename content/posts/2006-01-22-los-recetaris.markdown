@@ -6,7 +6,7 @@ title: Los recetaris
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/01/22/los-recetaris/
 tags:
 - todo a cien

@@ -6,7 +6,7 @@ title: Feliz 2008
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2008/01/03/feliz-2008/
 tags:
 - '2008'

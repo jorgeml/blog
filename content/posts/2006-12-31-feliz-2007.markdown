@@ -6,7 +6,7 @@ title: Feliz 2007
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/01/01/feliz-2007/
 tags:
 - todo a cien

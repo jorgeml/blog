@@ -6,7 +6,7 @@ title: Translate
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/04/10/translate/
 tags:
 - música

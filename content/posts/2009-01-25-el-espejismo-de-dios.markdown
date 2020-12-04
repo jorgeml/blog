@@ -6,7 +6,7 @@ title: El espejismo de Dios
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2009/01/25/el-espejismo-de-dios/
 tags:
 - ateísmo

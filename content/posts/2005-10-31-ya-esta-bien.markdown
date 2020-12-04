@@ -6,7 +6,7 @@ title: Ya está bien
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/10/31/ya-esta-bien/
 tags:
 - todo a cien

@@ -6,7 +6,7 @@ title: Google Talk
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/08/24/google-talk/
 tags:
 - internet

@@ -6,7 +6,7 @@ title: Una de basket
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/05/17/una-de-basket/
 tags:
 - baloncesto

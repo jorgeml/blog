@@ -6,7 +6,7 @@ title: The white things
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2008/02/16/the-white-things/
 tags:
 - coche

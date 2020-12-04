@@ -6,7 +6,7 @@ title: Incomunicado con Yoigo
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2008/06/23/incomunicado-con-yoigo/
 tags:
 - problemas

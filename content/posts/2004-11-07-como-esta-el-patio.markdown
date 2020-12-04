@@ -6,7 +6,7 @@ title: Como está el patio
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/11/07/como-esta-el-patio/
 tags:
 - noticias

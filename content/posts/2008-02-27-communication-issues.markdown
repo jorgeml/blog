@@ -6,7 +6,7 @@ title: Communication issues
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2008/02/27/communication-issues/
 tags:
 - english

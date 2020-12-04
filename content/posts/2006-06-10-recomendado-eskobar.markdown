@@ -6,7 +6,7 @@ title: 'Recomendado: Eskobar'
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/06/10/recomendado-eskobar/
 tags:
 - música

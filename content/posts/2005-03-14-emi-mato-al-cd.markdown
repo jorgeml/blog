@@ -6,7 +6,7 @@ title: EMI mató al CD
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/03/14/emi-mato-al-cd/
 tags:
 - música

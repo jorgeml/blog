@@ -6,7 +6,7 @@ title: Florentino es un ser superior
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/01/29/florentino-es-un-ser-superior/
 tags:
 - deporte

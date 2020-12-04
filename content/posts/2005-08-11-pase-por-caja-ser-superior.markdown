@@ -6,7 +6,7 @@ title: Pase por caja, ser superior
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/08/11/pase-por-caja-ser-superior/
 tags:
 - deporte

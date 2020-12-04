@@ -6,7 +6,7 @@ title: El kernel de los exámenes
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/01/23/el-kernel-de-los-examenes/
 tags:
 - ordenadores

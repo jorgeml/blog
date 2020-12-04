@@ -6,7 +6,7 @@ title: Denkmal
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/05/16/denkmal/
 tags:
 - erasmus

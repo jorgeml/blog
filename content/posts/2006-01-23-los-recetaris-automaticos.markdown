@@ -6,7 +6,7 @@ title: Los recetaris automáticos
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/01/23/los-recetaris-automaticos/
 tags:
 - todo a cien

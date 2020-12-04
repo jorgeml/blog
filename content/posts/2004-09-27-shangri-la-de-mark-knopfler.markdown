@@ -6,7 +6,7 @@ title: Shangri-la, de Mark Knopfler
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/09/27/shangri-la-de-mark-knopfler/
 tags:
 - música

@@ -6,7 +6,7 @@ title: Cuartos
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/08/24/cuartos/
 tags:
 - noticias

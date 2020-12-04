@@ -6,7 +6,7 @@ title: Rush April
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/05/02/rush-april/
 tags:
 - april

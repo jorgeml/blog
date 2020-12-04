@@ -3,7 +3,6 @@ languageCode = "en-GB"
 title = "my name is Jorge"
 theme = "hello-friend-ng"
 
-
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
@@ -18,12 +17,11 @@ disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 
-
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
-
+  
 [params]
   homeSubtitle = "and one day I'll have a proper blog."
   copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
@@ -65,13 +63,13 @@ disableHugoGeneratorInject = false
     name = "reddit"
     url = "https://www.reddit.com/user/jorgeml"
 
- [languages]
-  [languages.en]
+[languages]
+ [languages.en]
     title = "my name is Jorge"
     subtitle = "one day I'll have a proper blog"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
-  [languages.es]
+ [languages.es]
     title = "mi nombre es Jorge"
     subtitle = "algún día tendré un blog"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'

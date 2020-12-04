@@ -6,7 +6,7 @@ title: Plataforma Nacional
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/11/28/plataforma-nacional/
 tags:
 - erasmus

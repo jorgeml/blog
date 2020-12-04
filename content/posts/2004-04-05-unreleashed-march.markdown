@@ -6,7 +6,7 @@ title: Unreleashed March
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/04/05/unreleashed-march/
 tags:
 - erasmus

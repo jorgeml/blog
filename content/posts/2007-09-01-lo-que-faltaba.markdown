@@ -6,7 +6,7 @@ title: Lo que faltaba
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/09/01/lo-que-faltaba/
 tags:
 - ordenadores

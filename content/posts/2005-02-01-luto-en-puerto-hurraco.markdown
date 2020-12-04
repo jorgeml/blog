@@ -6,7 +6,7 @@ title: Luto en Puerto Hurraco
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/02/01/luto-en-puerto-hurraco/
 tags:
 - noticias

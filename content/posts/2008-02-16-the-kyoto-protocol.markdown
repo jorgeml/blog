@@ -6,7 +6,7 @@ title: The Kyoto protocol
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2008/02/16/the-kyoto-protocol/
 tags:
 - japan

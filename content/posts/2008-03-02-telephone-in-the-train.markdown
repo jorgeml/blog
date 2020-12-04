@@ -6,7 +6,7 @@ title: Telephone in the train
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2008/03/02/telephone-in-the-train/
 tags:
 - japan

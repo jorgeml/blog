@@ -6,7 +6,7 @@ title: Be legal, my friend
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2008/11/26/be-legal-my-friend/
 tags:
 - cultura

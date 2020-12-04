@@ -6,7 +6,7 @@ title: Adios a yeyo's
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/12/29/adios-a-yeyos/
 tags:
 - trabajo

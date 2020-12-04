@@ -6,7 +6,7 @@ title: Roberto Carlos, ese humanista
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/05/13/roberto-carlos-ese-humanista/
 tags:
 - deporte

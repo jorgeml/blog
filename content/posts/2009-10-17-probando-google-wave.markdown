@@ -6,7 +6,7 @@ title: Probando Google Wave
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2009/10/17/probando-google-wave/
 tags:
 - internet

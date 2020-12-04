@@ -6,7 +6,7 @@ title: Jorge es unidireccional
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/05/23/jorge-es-unidireccional/
 tags:
 - todo a cien

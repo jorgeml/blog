@@ -6,7 +6,7 @@ title: El PIN y la radio
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/04/06/el-pin-y-la-radio/
 tags:
 - erasmus

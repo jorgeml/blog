@@ -6,7 +6,7 @@ title: Las ruedas de invierno
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2010/02/11/las-ruedas-de-invierno/
 tags:
 - automóvil

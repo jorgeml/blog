@@ -6,7 +6,7 @@ title: Los increibles
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/12/05/los-increibles/
 tags:
 - cine

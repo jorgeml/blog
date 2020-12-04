@@ -6,7 +6,7 @@ title: Vacaciones
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/09/27/vacaciones-2/
 tags:
 - viajes

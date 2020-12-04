@@ -6,7 +6,7 @@ title: Ese hombre
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/09/03/ese-hombre/
 tags:
 - baloncesto

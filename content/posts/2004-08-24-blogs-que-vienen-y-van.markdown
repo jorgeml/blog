@@ -6,7 +6,7 @@ title: Blogs que vienen y van
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/08/24/blogs-que-vienen-y-van/
 tags:
 - www

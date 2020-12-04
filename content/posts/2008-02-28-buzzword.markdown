@@ -6,7 +6,7 @@ title: Buzzword
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2008/02/28/buzzword/
 tags:
 - buzzword

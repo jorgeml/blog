@@ -6,7 +6,7 @@ title: Downtime
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/12/21/downtime/
 tags:
 - ordenadores

@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-02-24 01:14:27+00:00
 draft: false
 title: The Dutch Factor
-type: post
+type: 
+- post
+- posts
+comments: false
 url: /2008/02/24/the-dutch-factor/
 tags:
 - japan

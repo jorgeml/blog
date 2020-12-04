@@ -6,7 +6,7 @@ title: La huelga de la ACB
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/05/24/la-huelga-de-la-acb/
 tags:
 - deporte

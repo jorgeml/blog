@@ -6,7 +6,7 @@ title: Love Actually
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/09/14/love-actually/
 tags:
 - cine

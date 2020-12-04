@@ -6,7 +6,7 @@ title: Adios ser superior
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/02/28/adios-ser-superior/
 tags:
 - real madrid

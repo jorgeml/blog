@@ -6,7 +6,7 @@ title: Microondas y demás
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/10/25/microondas-y-demas/
 tags:
 - universidad

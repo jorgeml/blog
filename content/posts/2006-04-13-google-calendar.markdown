@@ -6,7 +6,7 @@ title: Google Calendar
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/04/13/google-calendar/
 tags:
 - www

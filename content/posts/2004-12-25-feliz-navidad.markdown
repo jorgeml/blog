@@ -6,7 +6,7 @@ title: Feliz Navidad
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/12/25/feliz-navidad/
 tags:
 - todo a cien

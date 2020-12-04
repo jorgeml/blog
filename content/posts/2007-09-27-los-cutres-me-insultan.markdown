@@ -6,7 +6,7 @@ title: Los cutres me insultan
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/09/27/los-cutres-me-insultan/
 tags:
 - cine

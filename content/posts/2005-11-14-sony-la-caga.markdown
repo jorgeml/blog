@@ -6,7 +6,7 @@ title: Sony la caga
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/11/14/sony-la-caga/
 tags:
 - música

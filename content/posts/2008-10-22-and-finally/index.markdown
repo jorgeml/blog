@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-10-22 13:16:00+00:00
 draft: false
 title: and finally!
-type: post
+type: 
+- post
+- posts
+comments: true
 url: /2008/10/22/and-finally/
 tags:
 - m.sc.

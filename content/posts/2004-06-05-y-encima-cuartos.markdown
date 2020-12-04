@@ -6,7 +6,7 @@ title: Y encima cuartos
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/06/05/y-encima-cuartos/
 tags:
 - noticias

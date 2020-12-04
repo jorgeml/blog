@@ -6,7 +6,7 @@ title: Resucitando al tercer día
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/04/25/resucitando-al-tercer-dia/
 tags:
 - viajes

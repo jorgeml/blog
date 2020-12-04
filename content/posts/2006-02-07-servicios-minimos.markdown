@@ -6,7 +6,7 @@ title: Servicios mínimos
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/02/07/servicios-minimos/
 tags:
 - universidad

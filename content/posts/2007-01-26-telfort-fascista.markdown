@@ -6,7 +6,7 @@ title: Telfort fascista
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/01/26/telfort-fascista/
 tags:
 - erasmus

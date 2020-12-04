@@ -6,7 +6,7 @@ title: Jiménez no se vende
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/01/31/jimenez-no-se-vende/
 tags:
 - baloncesto

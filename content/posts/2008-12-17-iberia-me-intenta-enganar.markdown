@@ -6,7 +6,7 @@ title: Iberia me intenta engañar
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2008/12/17/iberia-me-intenta-enganar/
 tags:
 - cancelación

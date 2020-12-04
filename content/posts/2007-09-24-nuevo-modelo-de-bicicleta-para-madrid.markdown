@@ -6,7 +6,7 @@ title: Nuevo modelo de bicicleta para Madrid
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/09/24/nuevo-modelo-de-bicicleta-para-madrid/
 tags:
 - humor

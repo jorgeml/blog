@@ -6,7 +6,7 @@ title: Comienzan las fiestas
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/04/09/comienzan-las-fiestas/
 tags:
 - todo a cien

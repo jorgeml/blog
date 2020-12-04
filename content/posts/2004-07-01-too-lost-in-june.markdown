@@ -6,7 +6,7 @@ title: Too lost in June
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/07/01/too-lost-in-june/
 ---
 

@@ -6,7 +6,7 @@ title: Maldita antipiratería
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2008/07/27/maldita-antipirateria/
 tags:
 - cine

@@ -6,7 +6,7 @@ title: Grande Pearl Jam
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/05/20/grande-pearl-jam/
 tags:
 - internet

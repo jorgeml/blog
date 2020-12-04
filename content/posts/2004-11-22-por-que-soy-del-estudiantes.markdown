@@ -6,7 +6,7 @@ title: ¿Por qué soy del Estudiantes?
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/11/22/por-que-soy-del-estudiantes/
 tags:
 - baloncesto

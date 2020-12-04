@@ -6,7 +6,7 @@ title: Ik ben de nieuwe collega
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/10/16/ik-ben-de-nieuw-collega/
 tags:
 - holland

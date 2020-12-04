@@ -6,7 +6,7 @@ title: Vicisitud y sordidez
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/11/22/vicisitud-y-sordidez/
 tags:
 - blog

@@ -6,7 +6,7 @@ title: Con la burbuja estábamos mejor
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2008/01/04/con-la-burbuja-estabamos-mejor/
 tags:
 - burbuja

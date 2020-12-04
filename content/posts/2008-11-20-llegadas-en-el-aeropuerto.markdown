@@ -6,7 +6,7 @@ title: Llegadas en el aeropuerto
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2008/11/20/llegadas-en-el-aeropuerto/
 tags:
 - aeropuerto

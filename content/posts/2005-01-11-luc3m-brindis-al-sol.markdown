@@ -6,7 +6,7 @@ title: LUC3M - Brindis al Sol
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/01/11/luc3m-brindis-al-sol/
 tags:
 - ordenadores

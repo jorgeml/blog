@@ -6,7 +6,7 @@ title: Página de inicio
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/05/26/pagina-de-inicio/
 tags:
 - www

@@ -6,7 +6,7 @@ title: Fuenteovejuna
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/05/01/fuenteovejuna/
 tags:
 - noticias

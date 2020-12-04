@@ -6,7 +6,7 @@ title: Se retira un torero
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/07/12/se-retira-un-torero/
 tags:
 - baloncesto

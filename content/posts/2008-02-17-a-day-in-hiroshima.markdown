@@ -6,7 +6,7 @@ title: A-Day in Hiroshima
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2008/02/17/a-day-in-hiroshima/
 tags:
 - hiroshima

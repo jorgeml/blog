@@ -6,7 +6,7 @@ title: Habemus chupóptero
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/05/09/habemus-chupoptero/
 tags:
 - noticias

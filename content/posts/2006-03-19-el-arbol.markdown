@@ -6,7 +6,7 @@ title: El árbol
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/03/19/el-arbol/
 tags:
 - varios

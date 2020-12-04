@@ -6,7 +6,7 @@ title: Ya es Navidad en yeyo's
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/11/06/ya-es-navidad-en-yeyos/
 tags:
 - todo a cien

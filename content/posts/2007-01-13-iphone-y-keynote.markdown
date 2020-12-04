@@ -6,7 +6,7 @@ title: iPhone y Keynote
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/01/14/iphone-y-keynote/
 tags:
 - ordenadores

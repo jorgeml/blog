@@ -6,7 +6,7 @@ title: Vuelve OpenBank
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2008/09/19/vuelve-openbank/
 tags:
 - atención al cliente

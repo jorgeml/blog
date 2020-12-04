@@ -6,7 +6,7 @@ title: Mariano, el sucesor
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/04/26/mariano-el-sucesor/
 tags:
 - erasmus

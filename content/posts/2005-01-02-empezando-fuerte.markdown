@@ -6,7 +6,7 @@ title: Empezando fuerte
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/01/03/empezando-fuerte/
 tags:
 - todo a cien

@@ -6,7 +6,7 @@ title: Monika
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/04/17/monika/
 tags:
 - erasmus

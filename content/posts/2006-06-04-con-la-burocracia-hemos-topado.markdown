@@ -6,7 +6,7 @@ title: Con la burocracia hemos topado
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/06/04/con-la-burocracia-hemos-topado/
 tags:
 - erasmus

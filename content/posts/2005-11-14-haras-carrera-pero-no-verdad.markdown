@@ -6,7 +6,7 @@ title: Harás carrera, pero no verdad.
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/11/14/haras-carrera-pero-no-verdad/
 tags:
 - noticias

@@ -6,7 +6,7 @@ title: El sheriff
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/02/20/el-sheriff/
 tags:
 - baloncesto

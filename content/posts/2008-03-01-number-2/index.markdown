@@ -3,7 +3,10 @@ author: jorgeml
 date: 2008-03-01 00:36:25+00:00
 draft: false
 title: Number 2
-type: post
+type: 
+- post
+- posts
+comments: false
 url: /2008/03/01/number-2/
 tags:
 - japan

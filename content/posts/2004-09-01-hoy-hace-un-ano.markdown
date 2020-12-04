@@ -6,7 +6,7 @@ title: Hoy, hace un año.
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/09/01/hoy-hace-un-ano/
 tags:
 - erasmus

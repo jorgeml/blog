@@ -6,7 +6,7 @@ title: Guante blanco, manga ancha (parte I).
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/06/01/guante-blanco-manga-ancha-parte-i/
 tags:
 - libro

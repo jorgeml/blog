@@ -6,7 +6,7 @@ title: ¿Ha probado a apagarlo y encenderlo de nuevo?
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/06/21/ha-probado-a-apagarlo-y-encenderlo-de-nuevo/
 tags:
 - ordenadores

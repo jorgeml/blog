@@ -6,7 +6,7 @@ title: Enjoying May in Madrid
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/05/30/enjoying-may-in-madrid/
 tags:
 - madrid

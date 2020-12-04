@@ -6,7 +6,7 @@ title: Amo a Laura, pero esperaré hasta el matrimonio
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/04/28/amo-a-laura-pero-esperare-hasta-el-matrimonio/
 tags:
 - humor

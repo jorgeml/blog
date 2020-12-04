@@ -6,7 +6,7 @@ title: El nuevo presi de Estudiantes
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/01/06/el-nuevo-presi-de-estudiantes/
 tags:
 - baloncesto

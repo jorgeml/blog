@@ -6,7 +6,7 @@ title: D.E.P.
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/03/28/dep/
 tags:
 - noticias

@@ -6,7 +6,7 @@ title: La portada
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/07/23/la-portada/
 tags:
 - noticias

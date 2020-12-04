@@ -6,7 +6,7 @@ title: Se nos va el Papa
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/04/03/se-nos-va-el-papa/
 tags:
 - todo a cien

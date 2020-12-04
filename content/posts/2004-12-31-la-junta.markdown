@@ -6,7 +6,7 @@ title: La junta...
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/12/31/la-junta/
 tags:
 - estudiantes

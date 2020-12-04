@@ -6,7 +6,7 @@ title: Un fascista menos
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/12/11/un-fascista-menos/
 tags:
 - noticias

@@ -6,7 +6,7 @@ title: Spiderman 2
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/07/22/spiderman-2/
 tags:
 - cine

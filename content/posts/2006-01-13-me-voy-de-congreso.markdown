@@ -6,7 +6,7 @@ title: Me voy de congreso
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/01/13/me-voy-de-congreso/
 tags:
 - erasmus

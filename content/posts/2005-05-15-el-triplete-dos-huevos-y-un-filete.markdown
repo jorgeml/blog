@@ -6,7 +6,7 @@ title: 'El triplete: dos huevos y un filete'
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/05/15/el-triplete-dos-huevos-y-un-filete/
 tags:
 - deporte

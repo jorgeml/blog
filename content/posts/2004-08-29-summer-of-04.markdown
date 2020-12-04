@@ -6,7 +6,7 @@ title: Summer of '04
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/08/29/summer-of-04/
 tags:
 - '2004'

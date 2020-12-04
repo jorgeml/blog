@@ -6,7 +6,7 @@ title: Pequeñas joyas en YouTube
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/06/14/pequenas-joyas-en-youtube/
 tags:
 - humor

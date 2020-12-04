@@ -6,7 +6,7 @@ title: Colega, ¿dónde está mi email?
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/10/19/colega-donde-esta-mi-email/
 tags:
 - internet

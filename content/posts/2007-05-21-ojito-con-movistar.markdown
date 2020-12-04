@@ -6,7 +6,7 @@ title: Ojito con Movistar
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2007/05/21/ojito-con-movistar/
 tags:
 - noticias

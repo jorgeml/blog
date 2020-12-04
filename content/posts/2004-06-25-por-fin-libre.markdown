@@ -6,7 +6,7 @@ title: Por fin libre
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/06/25/por-fin-libre/
 tags:
 - todo a cien

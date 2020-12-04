@@ -6,7 +6,7 @@ title: El camino del exceso
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2005/04/15/el-camino-del-exceso/
 tags:
 - erasmus

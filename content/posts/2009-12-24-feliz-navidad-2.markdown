@@ -6,7 +6,7 @@ title: Feliz Navidad
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2009/12/24/feliz-navidad-2/
 tags:
 - '2010'

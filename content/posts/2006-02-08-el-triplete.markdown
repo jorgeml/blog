@@ -6,7 +6,7 @@ title: El triplete
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/02/08/el-triplete/
 tags:
 - deporte

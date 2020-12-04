@@ -6,7 +6,7 @@ title: Otro estudio de mercado
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2004/09/29/otro-estudio-de-mercado/
 tags:
 - trabajo

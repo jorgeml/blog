@@ -6,7 +6,7 @@ title: Crispación
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2006/01/26/crispacion/
 tags:
 - todo a cien

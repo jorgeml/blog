@@ -6,7 +6,7 @@ title: Ya es oficial
 type: 
 - post
 - posts
-comments: true
+comments: false
 url: /2009/04/19/ya-es-oficial/
 tags:
 - amigos
