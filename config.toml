@@ -36,7 +36,7 @@ disableHugoGeneratorInject = false
   enableSharingButtons = true
   
   [params.footer]
-    trademark = false
+    trademark = true
     rss = true
     copyright = true
     author = true
@@ -77,12 +77,12 @@ disableHugoGeneratorInject = false
  [languages.en]
     title = "my name is Jorge"
     subtitle = "one day I'll have a proper blog"
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    copyright = '<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>'
     readOtherPosts = "Read other posts"
  [languages.es]
     title = "mi nombre es Jorge"
     subtitle = "algún día tendré un blog"
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    copyright = '<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>'
     readOtherPosts = "Leer otras entradas"
 
 
