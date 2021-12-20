@@ -54,6 +54,10 @@ disableHugoGeneratorInject = false
     url = "https://instagram.com/jorge__martinez_lopez/"
 
   [[params.social]]
+    name = "pixelfed"
+    url = "https://pixelfed.social/jorgeml"
+
+  [[params.social]]
     name = "github"
     url = "https://github.com/jorgeml"
 
@@ -67,7 +71,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "matrix"
-    url = "https://matrix.to/#/@jorgeml:matrix.org"
+    url = "https://matrix.to/#/@jorgeml:mozilla.org"
 
   [[params.social]]
     name = "reddit"
