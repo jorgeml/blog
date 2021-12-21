@@ -1,0 +1,16 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
+{{ $image := (.Page.Resources.ByType "image") }}
+{{ with $image }}
+    {{ range . }}
+    {{ $resized := .Fill "160x160 q70" }}
+    <a href="{{ .Permalink }}" data-lightbox="x">
+    <figure class="left-floated">
+        <img style="border-radius: 10px;" src="{{ $resized.RelPermalink }}" width="{{ $resized.Width }}" height="{{ $resized.Height }}">
+    </figure></a>  
+    {{ end }}
+{{ end }}
+
+<br style="clear:left"/>
