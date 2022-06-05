@@ -1,0 +1,95 @@
+baseURL: https://jorgeml.me/
+languageCode: en-GB
+title: 'my name is Jorge'
+theme: hello-friend-ng
+
+author: 
+  name: 'Jorge Martínez López'
+
+PygmentsCodeFences: true
+PygmentsStyle: monokai
+
+SectionPagesMenu: main
+Paginate: 10
+DisqusShortname: jorgeml
+googleAnalytics: G-LEYV3KXEPP
+enableRobotsTXT: true
+enableEmoji: true
+disableRSS: false
+disableSitemap: false
+disable404: false
+disableHugoGeneratorInject: false
+
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+  filename: sitemap.xml
+  
+params:
+  homeSubtitle: "and one day I'll have a proper blog."
+  copyright: 'This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.'
+  license: 'CC BY-SA 4.0'
+  licenseURL: 'https://creativecommons.org/licenses/by-sa/4.0'
+  dateform: 'Jan 2, 2006'
+  dateformShort: 'Jan 2'
+  dateformNum: '2006-01-02'
+  dateformNumTime: '2006-01-02 15:04'
+  gravatar: jorgeml@jorgeml.me
+  disableReadOtherPosts: false
+  enableSharingButtons: true
+  enableGlobalLanguageMenu: false
+  
+  footer:
+    trademark: true
+    rss: true
+    copyright: true
+    author: true
+    topText: []
+    bottomText: ["Powered by <a href=\"http://gohugo.io\">Hugo</a>", "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"]
+  
+  social:
+    - name: "twitter"
+      url: "https://twitter.com/jorgeml"
+    - name: "instagram"
+      url: "https://instagram.com/jorge__martinez_lopez/"
+    - name: "pixelfed"
+      url: "https://pixelfed.social/jorgeml"
+    - name: "github"
+      url: "https://github.com/jorgeml"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/jorgeml/"
+    - name: "mastodon"
+      url: "https://mastodon.social/@jorgeml"
+    - name: "matrix"
+      url: "https://matrix.to/#/@jorgeml:mozilla.org"
+    - name: "reddit"
+      url: "https://www.reddit.com/user/jorgeml"
+
+privacy:
+  googleAnalytics:
+    anonymizeIP: true
+    respectDoNotTrack: true
+  instagram:
+    simple: true
+  twitter:
+    enableDNT: true
+    simple: false
+  vimeo:
+    enableDNT: true
+    simple: true
+  youtube:
+    privacyEnhanced: true
+
+defaultContentLang: en
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+  es:
+    title: "mi nombre es Jorge"
+    homeSubtitle: "algún día tendré un blog"
+    copyright: '<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>'
+    readOtherPosts: "Leer otras entradas"
+    languageName: Spanish
+    weight: 2
