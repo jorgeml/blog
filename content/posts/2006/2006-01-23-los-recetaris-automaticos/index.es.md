@@ -17,7 +17,6 @@ Los hay de dos clases, los criminales y los hideputa:
 * Los criminales son los que instala tráfico. Si te despistas un poco no ves el cartelón que los anuncia.
 * Los hideputa son los del Ayuntamiento, que no están anunciados.
 
-
 Aquí hay una pequeña diferencia. Los de Tráfico al estar anunciados, sí que hacen que vayas más lento, al menos en el tramo en el que están. Los del Ayuntamiento, no, sólo sirven para recaudar.
 
 Lo que también me sorprende es la gran cantidad de gente que ignora el cartel de "Control de velocidad". Los hay con ganas de ser recetados.
