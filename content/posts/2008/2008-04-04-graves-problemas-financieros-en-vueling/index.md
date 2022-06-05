@@ -22,7 +22,7 @@ Bueno, ya nos dirán algo los de consumo.
 
 **Actualización 11 / 04**: A pesar de las buenas intenciones
 
-{{< tweet 782743232 >}}
+{{< tweet user="vueling" id="782743232" >}}
 
 una semana después no hay rastro del dinero. La visita a Consumo parece inevitable.
 
