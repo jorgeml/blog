@@ -64,6 +64,8 @@ params:
       url: "https://matrix.to/#/@jorgeml:mozilla.org"
     - name: "reddit"
       url: "https://www.reddit.com/user/jorgeml"
+    - name: "opencollective"
+      url: "https://opencollective.com/jorgeml"
 
 privacy:
   googleAnalytics:
