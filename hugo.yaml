@@ -50,7 +50,7 @@ params:
     - name: "twitter"
       url: "https://twitter.com/jorgeml"
     - name: "instagram"
-      url: "https://instagram.com/jorge__martinez_lopez/"
+      url: "https://instagram.com/jorge.martinez_lopez/"
     - name: "pixelfed"
       url: "https://pixelfed.social/jorgeml"
       rel: "me"
