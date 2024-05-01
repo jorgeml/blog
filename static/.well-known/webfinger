@@ -1,0 +1,9 @@
+{
+  "subject": "acct:jorgeml@jorgeml.me",
+  "links": [
+    {
+      "rel": "http://openid.net/specs/connect/1.0/issuer",
+      "href": "https://sso-d013c73c.sso.duosecurity.com/oidc/DIBMFV3J0DN0GYM1JXM2"
+    }
+  ]
+}
