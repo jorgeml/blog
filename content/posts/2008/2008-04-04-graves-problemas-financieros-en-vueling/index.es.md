@@ -20,10 +20,6 @@ Bueno, ya nos dirán algo los de consumo.
 
 **Actualización 4 / 04 14:40:** Al César lo que es del César y ya se han puesto en contacto conmigo desde Vueling. A ver si lo solucionan, pero de momento un 10 por inmediatez via blog / Twitter.
 
-**Actualización 11 / 04**: A pesar de las buenas intenciones
-
-{{< tweet user="vueling" id="782743232" >}}
-
-una semana después no hay rastro del dinero. La visita a Consumo parece inevitable.
+**Actualización 11 / 04**: A pesar de las buenas intenciones una semana después no hay rastro del dinero. La visita a Consumo parece inevitable.
 
 **Actualización 14 / 04**: El Viernes llegó el dinero, finalmente.

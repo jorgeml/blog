@@ -93,6 +93,7 @@ languages:
     title: "mi nombre es Jorge"
     homeSubtitle: "algún día tendré un blog"
     copyright: '<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>'
-    readOtherPosts: "Leer otras entradas"
     languageName: Spanish
     weight: 2
+    params:
+      readOtherPosts: "Leer otras entradas"
