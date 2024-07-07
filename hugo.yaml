@@ -10,7 +10,7 @@ PygmentsCodeFences: true
 PygmentsStyle: monokai
 
 Paginate: 10
-copyright: 'This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.'
+copyright: '<a href="https://creativecommons.org/licenses/by-sa/4.0/" title="This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License." target="_blank" rel="noopener">CC BY-SA 4.0</a>'
 license: 'CC BY-SA 4.0'
 licenseURL: 'https://creativecommons.org/licenses/by-sa/4.0'
 
@@ -88,7 +88,6 @@ languages:
   es:
     title: "mi nombre es Jorge"
     homeSubtitle: "algún día tendré un blog"
-    copyright: '<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>'
     languageName: Spanish
     weight: 2
     params:
