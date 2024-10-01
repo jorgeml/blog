@@ -48,7 +48,7 @@ params:
   
   social:
     - name: "mastodon"
-      url: "https://mastodon.social/@jorgeml"
+      url: "https://hachyderm.io/@jorgeml"
       rel: "me"
     - name: "instagram"
       url: "https://instagram.com/jorge.martinez_lopez/"
