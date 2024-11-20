@@ -7,7 +7,7 @@
   "links": [
     {
       "rel": "http://openid.net/specs/connect/1.0/issuer",
-      "href": "https://sso-d013c73c.sso.duosecurity.com/oidc/DIBMFV3J0DN0GYM1JXM2"
+      "href": "https://jorgeml.uk.auth0.com/.well-known/openid-configuration"
     },
     {
       "rel": "http://webfinger.net/rel/profile-page",
