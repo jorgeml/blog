@@ -28,6 +28,8 @@ sitemap:
   filename: sitemap.xml
   
 params:
+  author:
+    name: "Jorge Martínez López"
   homeSubtitle: "and one day I'll have a proper blog."
   dateform: 'Jan 2, 2006'
   dateformShort: 'Jan 2'
