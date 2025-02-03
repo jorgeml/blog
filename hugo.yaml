@@ -3,13 +3,12 @@ languageCode: en-GB
 title: 'my name is Jorge'
 theme: hello-friend-ng
 
-author: 
-  name: 'Jorge Martínez López'
-
 PygmentsCodeFences: true
 PygmentsStyle: monokai
 
-Paginate: 10
+pagination:
+  pagerSize: 10
+
 copyright: '<a href="https://creativecommons.org/licenses/by-sa/4.0/" title="This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License." target="_blank" rel="noopener">CC BY-SA 4.0</a>'
 license: 'CC BY-SA 4.0'
 licenseURL: 'https://creativecommons.org/licenses/by-sa/4.0'
