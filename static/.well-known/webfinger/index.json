@@ -1,8 +1,8 @@
 {
   "subject": "acct:jorgeml@jorgeml.me",
   "aliases": [
-    "https://mastodon.social/@jorgeml",
-    "https://mastodon.social/users/jorgeml"
+    "https://hachyderm.io/@jorgeml",
+    "https://hachyderm.io/users/jorgeml"
   ],
   "links": [
     {
@@ -12,21 +12,21 @@
     {
       "rel": "http://webfinger.net/rel/profile-page",
       "type": "text/html",
-      "href": "https://mastodon.social/@jorgeml"
+      "href": "https://hachyderm.io/@jorgeml"
     },
     {
       "rel": "self",
       "type": "application/activity+json",
-      "href": "https://mastodon.social/users/jorgeml"
+      "href": "https://hachyderm.io/users/jorgeml"
     },
     {
       "rel": "http://ostatus.org/schema/1.0/subscribe",
-      "template": "https://mastodon.social/authorize_interaction?uri={uri}"
+      "template": "https://hachyderm.io/authorize_interaction?uri={uri}"
     },
     {
       "rel": "http://webfinger.net/rel/avatar",
       "type": "image/jpeg",
-      "href": "https://files.mastodon.social/accounts/avatars/000/510/109/original/e1dfd5c7a9af3241.jpeg"
+      "href": "https://media.hachyderm.io/accounts/avatars/113/233/022/422/674/073/original/e3c94b6c1f5a4dd9.jpeg"
     }
   ]
 }
