@@ -40,7 +40,7 @@ params:
   enableGlobalLanguageMenu: false
   
   footer:
-    trademark: 2024
+    trademark: 2025
     rss: true
     copyright: true
     author: true
@@ -88,12 +88,15 @@ languages:
     weight: 1
     menus:
       main:
+        - name: Home
+          pageRef: /
+          weight: 10
         #- name: About
         #  pageRef: /about
-        #  weight: 10
+        #  weight: 20
         - name: Posts
           pageRef: /posts
-          weight: 20
+          weight: 30
   es:
     title: "mi nombre es Jorge"
     homeSubtitle: "algún día tendré un blog"
@@ -103,10 +106,13 @@ languages:
       readOtherPosts: "Leer otras entradas"
     menus:
       main:
+        - name: Inicio
+          pageRef: /
+          weight: 10
         #- name: About
         #  pageRef: /about
         #  weight: 10
         - name: Blog
           pageRef: /es/posts
-          weight: 20
+          weight: 30
 
