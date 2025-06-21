@@ -71,7 +71,7 @@ privacy:
     respectDoNotTrack: true
   instagram:
     simple: true
-  twitter:
+  x:
     enableDNT: true
     simple: false
   vimeo:
